@@ -1,0 +1,601 @@
+video_id,title,channel_name,category_id,publish_date,trending_date,views,likes,dislikes,comment_count,comments_disabled,ratings_disabled,tags,duration_seconds,thumbnail_link
+VID00001,I Challenged A Kid To Build a PC,Shroud,2,2024-01-13,2024-01-25,9278452,412790,12191,36857,FALSE,FALSE,funny|news|trending|viral,3093,https://i.ytimg.com/vi/1/mqdefault.jpg
+VID00002,Gaming Setups: Is It Worth It?,TechLead,9,2024-08-02,2024-08-06,15122954,1193602,147195,17973,FALSE,FALSE,news,3360,https://i.ytimg.com/vi/2/mqdefault.jpg
+VID00003,I Challenged A Kid To Code,NatGeo,6,2024-05-15,2024-05-28,1507954,140199,11926,44062,FALSE,FALSE,[none],1610,https://i.ytimg.com/vi/3/mqdefault.jpg
+VID00004,Surprising A CEO With Electric Cars,T-Series,4,2024-05-28,2024-05-30,7861165,838380,53000,111226,FALSE,FALSE,tutorial|collab,3476,https://i.ytimg.com/vi/4/mqdefault.jpg
+VID00005,Teaching My A CEO How To Build a PC,WWE,3,2024-08-24,2024-08-31,9107945,1083411,107907,156215,FALSE,FALSE,trending|reaction,2864,https://i.ytimg.com/vi/5/mqdefault.jpg
+VID00006,30 Things You Didn't Know About Python,5-Minute Crafts,4,2024-09-12,2024-09-19,21620529,1424472,67068,176254,FALSE,FALSE,gameplay|news|update|tutorial,2359,https://i.ytimg.com/vi/6/mqdefault.jpg
+VID00007,Teaching My A Kid How To Build a PC,Shroud,3,2024-08-04,2024-08-14,2181636,127574,11918,31793,FALSE,FALSE,viral|epic|gameplay|update,1089,https://i.ytimg.com/vi/7/mqdefault.jpg
+VID00008,Netflix: Is It Worth It?,CNN,9,2024-04-01,2024-04-10,3620554,387587,20070,70707,FALSE,FALSE,challenge,2554,https://i.ytimg.com/vi/8/mqdefault.jpg
+VID00009,The Truth About Coffee Nobody Tells You,Dude Perfect,6,2024-06-06,2024-06-10,1993646,87894,7860,6547,FALSE,FALSE,funny|challenge|prank,3057,https://i.ytimg.com/vi/9/mqdefault.jpg
+VID00010,10 Things You Didn't Know About The Internet,Bon Appétit,4,2024-06-08,2024-06-15,22588074,1919710,136940,,TRUE,TRUE,reaction,555,https://i.ytimg.com/vi/10/mqdefault.jpg
+VID00011,Teaching My A Kid How To Speedrun,TechLead,1,2024-04-27,2024-04-29,1104043,116988,2330,8724,FALSE,FALSE,review|challenge|unboxing,2800,https://i.ytimg.com/vi/11/mqdefault.jpg
+VID00012,The Truth About YouTube Nobody Tells You,NatGeo,7,2024-07-29,2024-08-06,24513726,623068,63231,483881,FALSE,FALSE,shorts|epic|reaction,308,https://i.ytimg.com/vi/12/mqdefault.jpg
+VID00013,The Truth About Calories Nobody Tells You,TED,2,2024-08-14,2024-08-27,18515853,551603,55877,308789,FALSE,FALSE,[none],120,https://i.ytimg.com/vi/13/mqdefault.jpg
+VID00014,I Spent 100 Days Streaming And This Happened,Vox,1,2024-03-25,2024-04-01,122322,14498,683,2903,FALSE,FALSE,news|unboxing,1923,https://i.ytimg.com/vi/14/mqdefault.jpg
+VID00015,Traveling For 24 Hours Straight,T-Series,1,2024-10-26,2024-11-03,16922858,1894322,159800,44837,FALSE,FALSE,[none],2140,https://i.ytimg.com/vi/15/mqdefault.jpg
+VID00016,How Netflix Actually Works,Smosh,10,2024-01-21,2024-01-31,2800906,173439,15906,45264,FALSE,FALSE,shorts,1128,https://i.ytimg.com/vi/16/mqdefault.jpg
+VID00017,The Truth About JavaScript Nobody Tells You,Veritasium,10,2024-10-15,2024-10-17,2508221,185015,14953,12142,FALSE,FALSE,[none],1489,https://i.ytimg.com/vi/17/mqdefault.jpg
+VID00018,How Calories Actually Works,MKBHD,1,2024-10-10,2024-10-15,22309631,677290,90037,193413,FALSE,FALSE,science|challenge|gameplay|prank|vlog,498,https://i.ytimg.com/vi/18/mqdefault.jpg
+VID00019,The Truth About GPUs Nobody Tells You,PewDiePie,7,2024-05-21,2024-05-22,168973,9015,255,4970,FALSE,FALSE,top10|news|viral|trending|science,721,https://i.ytimg.com/vi/19/mqdefault.jpg
+VID00020,30 Things You Didn't Know About Space,Mark Rober,7,2024-03-06,2024-03-07,10393433,586866,82532,303422,FALSE,FALSE,review|reaction,223,https://i.ytimg.com/vi/20/mqdefault.jpg
+VID00021,Why Everyone Is Wrong About Crypto,Red Bull,3,2024-07-30,2024-07-31,6068345,568339,32114,169875,FALSE,FALSE,reaction|gameplay|tutorial|update|collab,3345,https://i.ytimg.com/vi/21/mqdefault.jpg
+VID00022,24 Things You Didn't Know About Fast Food,BuzzFeed,4,2024-04-24,2024-04-25,22197038,872631,48829,578593,FALSE,FALSE,collab|prank,3227,https://i.ytimg.com/vi/22/mqdefault.jpg
+VID00023,100 Things You Didn't Know About Crypto,Smosh,5,2024-01-20,2024-01-22,20067609,1273417,142618,,TRUE,FALSE,epic|update|review|challenge,2543,https://i.ytimg.com/vi/23/mqdefault.jpg
+VID00024,How Electric Cars Actually Works,PewDiePie,6,2024-06-09,2024-06-20,4231731,389215,20256,42187,FALSE,FALSE,update|vlog,1732,https://i.ytimg.com/vi/24/mqdefault.jpg
+VID00025,The Best Gaming Setups Ranked,BuzzFeed,7,2024-10-07,2024-10-21,63621,3205,126,1513,FALSE,FALSE,shorts|top10|prank|reaction|science,2544,https://i.ytimg.com/vi/25/mqdefault.jpg
+VID00026,Why Everyone Is Wrong About Coffee,Dream,10,2024-06-20,2024-06-22,7930882,692203,28691,53729,FALSE,FALSE,[none],160,https://i.ytimg.com/vi/26/mqdefault.jpg
+VID00027,I Tried Space For 30 Days,Linus Tech Tips,7,2024-09-10,2024-09-17,8236759,286286,30422,221462,FALSE,FALSE,epic|news|reaction|funny|update|collab,3584,https://i.ytimg.com/vi/27/mqdefault.jpg
+VID00028,How Algorithms Actually Works,MKBHD,9,2024-06-11,2024-06-24,14900299,1210876,134041,233019,FALSE,FALSE,top10|tutorial|unboxing|reaction,3462,https://i.ytimg.com/vi/28/mqdefault.jpg
+VID00029,Surprising My Mom With Crypto,WWE,5,2024-08-13,2024-08-15,23992592,1165387,55985,246441,FALSE,FALSE,[none],2272,https://i.ytimg.com/vi/29/mqdefault.jpg
+VID00030,Teaching My A Pro Gamer How To Cook,Corridor Crew,6,2024-10-04,2024-10-12,14001068,367200,46489,172140,FALSE,FALSE,viral|update|unboxing|science,3213,https://i.ytimg.com/vi/30/mqdefault.jpg
+VID00031,How Sleep Science Actually Works,CNN,7,2024-09-05,2024-09-06,13097882,702216,73788,166672,FALSE,TRUE,top10|challenge|viral|science|review|vlog,736,https://i.ytimg.com/vi/31/mqdefault.jpg
+VID00032,Gaming Setups Tier List 2024,CNN,7,2024-06-16,2024-06-20,15307177,806452,94009,183604,FALSE,FALSE,news|gameplay|funny|reaction|viral|collab,3140,https://i.ytimg.com/vi/32/mqdefault.jpg
+VID00033,Surprising A Stranger With Electric Cars,Bon Appétit,1,2024-05-06,2024-05-10,733839,60272,2615,10811,FALSE,FALSE,review|top10|gameplay|update,528,https://i.ytimg.com/vi/33/mqdefault.jpg
+VID00034,I Tried JavaScript For 30 Days,Smosh,1,2024-06-08,2024-06-18,22778003,2523862,157849,644677,FALSE,FALSE,[none],872,https://i.ytimg.com/vi/34/mqdefault.jpg
+VID00035,How Space Actually Works,Red Bull,2,2024-10-16,2024-10-29,1428051,78143,5467,16774,FALSE,FALSE,shorts|viral|news|unboxing|reaction,2132,https://i.ytimg.com/vi/35/mqdefault.jpg
+VID00036,The Best Sleep Science Ranked,Gordon Ramsay,9,2024-05-18,2024-05-28,18108086,1764889,132511,451729,FALSE,FALSE,shorts|reaction,2486,https://i.ytimg.com/vi/36/mqdefault.jpg
+VID00037,Reacting to Algorithms For The First Time,Dream,7,2024-06-21,2024-06-22,16636173,1748383,61993,118973,FALSE,FALSE,shorts|gameplay,3327,https://i.ytimg.com/vi/37/mqdefault.jpg
+VID00038,Surprising A Pro Gamer With GPUs,WWE,7,2024-09-07,2024-09-16,8113933,722634,72571,123606,FALSE,FALSE,[none],3307,https://i.ytimg.com/vi/38/mqdefault.jpg
+VID00039,Surprising My Best Friend With Electric Cars,MKBHD,6,2024-08-05,2024-08-17,18517972,982917,106547,164005,FALSE,FALSE,epic,1089,https://i.ytimg.com/vi/39/mqdefault.jpg
+VID00040,Reacting to JavaScript For The First Time,Gordon Ramsay,8,2024-05-21,2024-06-02,19833253,2333594,194736,,TRUE,FALSE,review|vlog|reaction|tutorial|funny|challenge,471,https://i.ytimg.com/vi/40/mqdefault.jpg
+VID00041,Traveling For 24 Hours Straight,Shroud,8,2024-02-22,2024-03-07,461558,35727,2705,6357,FALSE,FALSE,[none],815,https://i.ytimg.com/vi/41/mqdefault.jpg
+VID00042,Reacting to Python For The First Time,Shroud,1,2024-03-18,2024-03-21,18935762,2175956,47708,155226,FALSE,FALSE,news|reaction|update|prank|top10|challenge,2345,https://i.ytimg.com/vi/42/mqdefault.jpg
+VID00043,We Tested Every The Internet So You Don't Have To,Dude Perfect,4,2024-04-18,2024-04-23,22210291,624525,27217,377747,FALSE,FALSE,[none],701,https://i.ytimg.com/vi/43/mqdefault.jpg
+VID00044,The Truth About Electric Cars Nobody Tells You,BuzzFeed,8,2024-02-06,2024-02-17,7882403,885911,106571,150764,FALSE,FALSE,review|news|epic|gameplay|unboxing|shorts,2768,https://i.ytimg.com/vi/44/mqdefault.jpg
+VID00045,Surprising My Mom With YouTube,Gordon Ramsay,10,2024-05-27,2024-06-04,4222616,282365,14844,53512,FALSE,FALSE,science|unboxing|top10|trending,1175,https://i.ytimg.com/vi/45/mqdefault.jpg
+VID00046,How Calories Actually Works,WWE,10,2024-10-27,2024-10-28,22608026,2309231,209388,522927,FALSE,FALSE,prank|top10|gameplay,777,https://i.ytimg.com/vi/46/mqdefault.jpg
+VID00047,Teaching My A Kid How To Stream,5-Minute Crafts,6,2024-02-23,2024-03-08,5446386,288551,30907,50969,FALSE,FALSE,science|trending|top10|prank|tutorial|challenge,1700,https://i.ytimg.com/vi/47/mqdefault.jpg
+VID00048,The Best Calories Ranked,Veritasium,7,2024-01-28,2024-02-01,17445939,980076,113592,333860,FALSE,FALSE,[none],3172,https://i.ytimg.com/vi/48/mqdefault.jpg
+VID00049,24 Things You Didn't Know About Calories,Shroud,10,2024-05-02,2024-05-14,5364289,273981,3264,68833,FALSE,FALSE,epic|top10|science|shorts|news|funny,980,https://i.ytimg.com/vi/49/mqdefault.jpg
+VID00050,Teaching My A Stranger How To Code,Veritasium,9,2024-03-15,2024-03-22,6445822,723136,58685,170817,FALSE,FALSE,[none],3599,https://i.ytimg.com/vi/50/mqdefault.jpg
+VID00051,I Tried Smartphones For 30 Days,BuzzFeed,5,2024-10-27,2024-11-06,22193937,1530583,47147,368837,FALSE,FALSE,science|update,1473,https://i.ytimg.com/vi/51/mqdefault.jpg
+VID00052,We Tested Every Sleep Science So You Don't Have To,T-Series,6,2024-08-30,2024-09-11,12841994,752641,77459,318503,FALSE,FALSE,trending|challenge|shorts,683,https://i.ytimg.com/vi/52/mqdefault.jpg
+VID00053,Why Everyone Is Wrong About Gaming Setups,Mark Rober,7,2024-03-20,2024-03-22,15803490,1551152,73064,301444,FALSE,FALSE,funny|shorts|update|tutorial|prank,1688,https://i.ytimg.com/vi/53/mqdefault.jpg
+VID00054,Reacting to Coffee For The First Time,Dream,5,2024-04-26,2024-05-08,3082627,195429,4647,,TRUE,FALSE,tutorial|vlog|viral,471,https://i.ytimg.com/vi/54/mqdefault.jpg
+VID00055,How Sleep Science Actually Works,MKBHD,7,2024-10-16,2024-10-27,6091706,225383,4745,159933,FALSE,FALSE,reaction|unboxing|challenge|epic|science,2598,https://i.ytimg.com/vi/55/mqdefault.jpg
+VID00056,We Tested Every Smartphones So You Don't Have To,SSSniperWolf,3,2024-02-07,2024-02-15,11645258,1383051,71754,336534,FALSE,FALSE,top10|vlog,2887,https://i.ytimg.com/vi/56/mqdefault.jpg
+VID00057,I Tried YouTube For 30 Days,Smosh,5,2024-05-31,2024-06-01,22136527,1318906,14684,577474,FALSE,FALSE,trending|unboxing|vlog|update|top10,3247,https://i.ytimg.com/vi/57/mqdefault.jpg
+VID00058,Teaching My A CEO How To Draw,Bon Appétit,3,2024-02-19,2024-03-05,21104000,1786117,95111,290894,FALSE,FALSE,challenge|funny,2433,https://i.ytimg.com/vi/58/mqdefault.jpg
+VID00059,Smartphones: Is It Worth It?,MKBHD,9,2024-05-19,2024-06-02,5571194,254586,31939,83420,FALSE,FALSE,shorts|epic,3363,https://i.ytimg.com/vi/59/mqdefault.jpg
+VID00060,The Best The Internet Ranked,PewDiePie,7,2024-01-08,2024-01-13,18054379,584219,35989,410219,FALSE,TRUE,update|collab|epic|shorts,1133,https://i.ytimg.com/vi/60/mqdefault.jpg
+VID00061,The Truth About GPUs Nobody Tells You,Shroud,8,2024-06-03,2024-06-14,13750135,435433,7118,28588,FALSE,FALSE,[none],2077,https://i.ytimg.com/vi/61/mqdefault.jpg
+VID00062,We Tested Every GPUs So You Don't Have To,TechLead,9,2024-08-02,2024-08-12,24956415,2312459,309772,498946,FALSE,FALSE,news|gameplay|trending,3474,https://i.ytimg.com/vi/62/mqdefault.jpg
+VID00063,The Truth About Gaming Setups Nobody Tells You,NatGeo,9,2024-07-02,2024-07-03,13409349,638126,92878,,TRUE,FALSE,funny|review|viral,3435,https://i.ytimg.com/vi/63/mqdefault.jpg
+VID00064,How AI Actually Works,Smosh,4,2024-04-29,2024-05-05,5001096,494430,46198,45214,FALSE,FALSE,science,652,https://i.ytimg.com/vi/64/mqdefault.jpg
+VID00065,100 Things You Didn't Know About Sleep Science,Smosh,6,2024-01-09,2024-01-12,8954256,226004,25728,145564,FALSE,FALSE,[none],3114,https://i.ytimg.com/vi/65/mqdefault.jpg
+VID00066,The Best Space Ranked,Ninja,1,2024-09-23,2024-09-28,15419356,1300377,18674,461948,FALSE,FALSE,news|epic|unboxing,3530,https://i.ytimg.com/vi/66/mqdefault.jpg
+VID00067,10 Things You Didn't Know About Sleep Science,CNN,10,2024-10-26,2024-11-04,23945882,1257602,187694,392380,FALSE,FALSE,news|epic|prank|science,1918,https://i.ytimg.com/vi/67/mqdefault.jpg
+VID00068,Coding For 24 Hours Straight,5-Minute Crafts,8,2024-07-23,2024-07-30,24531733,723896,50489,,TRUE,FALSE,unboxing,1593,https://i.ytimg.com/vi/68/mqdefault.jpg
+VID00069,I Tried Calories For 30 Days,T-Series,10,2024-10-14,2024-10-23,11111083,966678,65263,292606,FALSE,FALSE,trending|vlog|prank,3133,https://i.ytimg.com/vi/69/mqdefault.jpg
+VID00070,Electric Cars Tier List 2024,NatGeo,9,2024-07-07,2024-07-09,9397198,727437,89482,239717,FALSE,FALSE,science|viral|gameplay|prank|funny|challenge,3203,https://i.ytimg.com/vi/70/mqdefault.jpg
+VID00071,Gaming Setups Tier List 2024,Dream,7,2024-02-05,2024-02-08,24912795,2075664,29665,563956,FALSE,FALSE,news|top10|shorts,941,https://i.ytimg.com/vi/71/mqdefault.jpg
+VID00072,How Algorithms Actually Works,Vsauce,10,2024-01-26,2024-02-06,2787421,131594,13510,42045,FALSE,FALSE,gameplay|review|epic,1870,https://i.ytimg.com/vi/72/mqdefault.jpg
+VID00073,Teaching My A CEO How To Stream,T-Series,4,2024-07-21,2024-07-31,1888177,39214,2046,13454,FALSE,FALSE,gameplay|vlog|shorts|trending|viral|reaction,622,https://i.ytimg.com/vi/73/mqdefault.jpg
+VID00074,Coding For 24 Hours Straight,NASA,6,2024-02-06,2024-02-13,24948775,604514,7631,691423,FALSE,FALSE,news|update,3591,https://i.ytimg.com/vi/74/mqdefault.jpg
+VID00075,100 Things You Didn't Know About GPUs,Veritasium,6,2024-02-15,2024-02-22,3602177,159690,14762,,TRUE,FALSE,vlog|shorts|reaction|tutorial|update|funny,1681,https://i.ytimg.com/vi/75/mqdefault.jpg
+VID00076,How Netflix Actually Works,NASA,3,2024-04-30,2024-05-02,4963852,226335,7760,26969,FALSE,FALSE,funny|tutorial|unboxing|reaction|update,3169,https://i.ytimg.com/vi/76/mqdefault.jpg
+VID00077,Reacting to Gaming Setups For The First Time,Mark Rober,8,2024-02-04,2024-02-12,14888040,1237769,150371,,TRUE,FALSE,funny|vlog|top10|reaction,1501,https://i.ytimg.com/vi/77/mqdefault.jpg
+VID00078,Streaming For 24 Hours Straight,MKBHD,7,2024-08-24,2024-09-03,18649770,2152615,244211,40836,FALSE,FALSE,review|shorts|unboxing|gameplay,3377,https://i.ytimg.com/vi/78/mqdefault.jpg
+VID00079,I Challenged My Mom To Draw,Vsauce,1,2024-05-06,2024-05-18,14738730,1755362,146343,275383,FALSE,FALSE,vlog|update,1550,https://i.ytimg.com/vi/79/mqdefault.jpg
+VID00080,How Gaming Setups Actually Works,Dude Perfect,9,2024-07-16,2024-07-21,8505575,785688,80076,232065,FALSE,FALSE,funny|challenge,675,https://i.ytimg.com/vi/80/mqdefault.jpg
+VID00081,JavaScript Tier List 2024,The Tonight Show,6,2024-03-06,2024-03-17,23633090,2431748,275829,493388,FALSE,FALSE,[none],2216,https://i.ytimg.com/vi/81/mqdefault.jpg
+VID00082,The Truth About Electric Cars Nobody Tells You,5-Minute Crafts,8,2024-04-08,2024-04-12,4665927,165614,8514,111307,FALSE,FALSE,science|prank|trending|shorts|tutorial|update,2139,https://i.ytimg.com/vi/82/mqdefault.jpg
+VID00083,Sleep Science Tier List 2024,T-Series,7,2024-07-05,2024-07-16,24195288,1058616,76419,224118,FALSE,FALSE,top10|reaction|prank|challenge|update|news,3126,https://i.ytimg.com/vi/83/mqdefault.jpg
+VID00084,Reacting to Space For The First Time,MKBHD,9,2024-08-02,2024-08-05,6750743,675924,19855,55694,FALSE,FALSE,collab|epic|prank,2686,https://i.ytimg.com/vi/84/mqdefault.jpg
+VID00085,I Spent 24 Days Coding And This Happened,Vice,4,2024-08-18,2024-09-02,11780128,1331710,90670,147218,FALSE,FALSE,update,1591,https://i.ytimg.com/vi/85/mqdefault.jpg
+VID00086,100 Things You Didn't Know About Coffee,T-Series,5,2024-08-29,2024-09-10,4707109,451336,34155,88705,FALSE,FALSE,[none],384,https://i.ytimg.com/vi/86/mqdefault.jpg
+VID00087,I Tried Electric Cars For 30 Days,WWE,5,2024-03-03,2024-03-04,8050702,499003,60452,114773,FALSE,FALSE,unboxing|viral|reaction|collab|funny|challenge,514,https://i.ytimg.com/vi/87/mqdefault.jpg
+VID00088,I Spent 24 Days Drawing And This Happened,PewDiePie,9,2024-07-03,2024-07-05,17701625,1317145,158186,278288,FALSE,FALSE,unboxing|trending|update,143,https://i.ytimg.com/vi/88/mqdefault.jpg
+VID00089,The Truth About Sleep Science Nobody Tells You,Gordon Ramsay,2,2024-10-24,2024-11-05,11207473,373667,22166,121240,FALSE,FALSE,top10,2692,https://i.ytimg.com/vi/89/mqdefault.jpg
+VID00090,Why Everyone Is Wrong About Netflix,Linus Tech Tips,1,2024-04-12,2024-04-27,1456130,75077,4009,18272,FALSE,FALSE,unboxing|gameplay|trending|update,3399,https://i.ytimg.com/vi/90/mqdefault.jpg
+VID00091,Working Out For 24 Hours Straight,Red Bull,6,2024-08-11,2024-08-26,13472503,1270871,171884,164535,FALSE,FALSE,unboxing|collab|gameplay,825,https://i.ytimg.com/vi/91/mqdefault.jpg
+VID00092,Teaching My My Mom How To Build a PC,5-Minute Crafts,2,2024-02-10,2024-02-16,22226769,1101647,79790,484815,FALSE,FALSE,top10|collab|science|viral|prank,742,https://i.ytimg.com/vi/92/mqdefault.jpg
+VID00093,I Challenged A Kid To Speedrun,Shroud,7,2024-07-05,2024-07-14,22847237,822470,11810,585149,FALSE,FALSE,top10|trending|challenge|prank|epic|update,2837,https://i.ytimg.com/vi/93/mqdefault.jpg
+VID00094,30 Things You Didn't Know About Fast Food,NatGeo,6,2024-08-15,2024-08-28,2629846,203529,17121,,TRUE,FALSE,reaction|epic,2720,https://i.ytimg.com/vi/94/mqdefault.jpg
+VID00095,Why Everyone Is Wrong About GPUs,TechLead,8,2024-04-19,2024-04-29,9632369,861115,129001,65549,FALSE,FALSE,funny|top10|tutorial|prank|collab|reaction,615,https://i.ytimg.com/vi/95/mqdefault.jpg
+VID00096,I Tried Calories For 30 Days,SSSniperWolf,9,2024-05-28,2024-06-12,10114875,1063439,116609,282128,FALSE,FALSE,collab,2672,https://i.ytimg.com/vi/96/mqdefault.jpg
+VID00097,Sleep Science Tier List 2024,SSSniperWolf,10,2024-07-07,2024-07-15,18560199,612061,81890,53948,FALSE,FALSE,unboxing|prank|news|update|review,1690,https://i.ytimg.com/vi/97/mqdefault.jpg
+VID00098,Gaming Setups Tier List 2024,NatGeo,3,2024-10-09,2024-10-20,19772825,755249,109720,267841,FALSE,FALSE,epic|prank|challenge|unboxing|funny|news,286,https://i.ytimg.com/vi/98/mqdefault.jpg
+VID00099,Why Everyone Is Wrong About Python,Shroud,9,2024-05-20,2024-05-23,21022270,1057051,89518,327413,FALSE,TRUE,challenge|tutorial|shorts|news,750,https://i.ytimg.com/vi/99/mqdefault.jpg
+VID00100,Gaming For 24 Hours Straight,CNN,4,2024-10-19,2024-10-26,20790277,1744285,139063,398918,FALSE,FALSE,vlog|unboxing|reaction|update|top10,1246,https://i.ytimg.com/vi/100/mqdefault.jpg
+VID00101,Gaming For 24 Hours Straight,Veritasium,4,2024-06-23,2024-07-03,4870721,249664,27605,108577,FALSE,FALSE,update|challenge,3585,https://i.ytimg.com/vi/101/mqdefault.jpg
+VID00102,We Tested Every AI So You Don't Have To,Veritasium,4,2024-03-13,2024-03-15,1748031,85690,5465,32943,FALSE,FALSE,tutorial|shorts|prank|epic|update|funny,1076,https://i.ytimg.com/vi/102/mqdefault.jpg
+VID00103,Surprising A Stranger With Smartphones,MKBHD,8,2024-05-03,2024-05-07,19623780,1084989,18526,301262,FALSE,FALSE,unboxing|vlog|viral|news|trending,3512,https://i.ytimg.com/vi/103/mqdefault.jpg
+VID00104,24 Things You Didn't Know About Space,The Tonight Show,1,2024-10-18,2024-10-27,6581548,370227,18661,80321,FALSE,FALSE,science|gameplay|epic|funny|trending|review,1904,https://i.ytimg.com/vi/104/mqdefault.jpg
+VID00105,The Truth About JavaScript Nobody Tells You,MKBHD,7,2024-09-13,2024-09-14,1570128,37512,4122,38177,FALSE,FALSE,challenge|prank|science,2187,https://i.ytimg.com/vi/105/mqdefault.jpg
+VID00106,I Challenged A Kid To Code,MKBHD,9,2024-09-29,2024-10-07,23831361,1818152,139061,35329,FALSE,FALSE,epic|news|vlog|update|collab,1416,https://i.ytimg.com/vi/106/mqdefault.jpg
+VID00107,Teaching My A CEO How To Speedrun,Smosh,8,2024-03-28,2024-04-06,21156584,1948908,230838,254418,FALSE,FALSE,reaction|trending|epic|unboxing|viral,3425,https://i.ytimg.com/vi/107/mqdefault.jpg
+VID00108,Calories Tier List 2024,TED,1,2024-03-11,2024-03-20,7007233,533171,79835,104216,FALSE,FALSE,tutorial|top10,1603,https://i.ytimg.com/vi/108/mqdefault.jpg
+VID00109,Surprising A CEO With Fast Food,CNN,9,2024-06-01,2024-06-05,10036287,974698,105936,210932,FALSE,FALSE,unboxing|collab,2062,https://i.ytimg.com/vi/109/mqdefault.jpg
+VID00110,Why Everyone Is Wrong About YouTube,SSSniperWolf,7,2024-07-21,2024-08-04,11630797,1342902,164701,109598,FALSE,FALSE,funny|collab|top10|shorts|challenge,1238,https://i.ytimg.com/vi/110/mqdefault.jpg
+VID00111,Coding For 24 Hours Straight,Ninja,10,2024-05-02,2024-05-06,1753405,152517,12864,34192,FALSE,FALSE,[none],275,https://i.ytimg.com/vi/111/mqdefault.jpg
+VID00112,The Best Smartphones Ranked,Vice,8,2024-09-01,2024-09-12,6742631,644535,32364,62551,FALSE,FALSE,funny|reaction|trending|top10|science|review,302,https://i.ytimg.com/vi/112/mqdefault.jpg
+VID00113,30 Things You Didn't Know About Crypto,Vice,5,2024-01-20,2024-01-21,10062381,772752,19335,296908,FALSE,FALSE,science|prank|unboxing,1225,https://i.ytimg.com/vi/113/mqdefault.jpg
+VID00114,Gaming For 24 Hours Straight,Vsauce,8,2024-05-11,2024-05-23,6297804,134826,7711,60179,FALSE,FALSE,review|tutorial|update|news|science|gameplay,2822,https://i.ytimg.com/vi/114/mqdefault.jpg
+VID00115,We Tested Every Smartphones So You Don't Have To,MrBeast,5,2024-07-15,2024-07-19,15039956,1434445,205935,146736,FALSE,FALSE,viral|gameplay|collab|unboxing,3020,https://i.ytimg.com/vi/115/mqdefault.jpg
+VID00116,Teaching My My Best Friend How To Build a PC,Vice,5,2024-03-01,2024-03-12,9949819,564695,23106,286191,FALSE,FALSE,top10,2018,https://i.ytimg.com/vi/116/mqdefault.jpg
+VID00117,I Tried Space For 30 Days,Bon Appétit,10,2024-02-11,2024-02-20,15040374,1095199,66423,415115,FALSE,FALSE,[none],519,https://i.ytimg.com/vi/117/mqdefault.jpg
+VID00118,I Spent 100 Days Traveling And This Happened,TED,9,2024-08-14,2024-08-16,22876920,927433,84990,83210,FALSE,FALSE,trending|top10|challenge,2150,https://i.ytimg.com/vi/118/mqdefault.jpg
+VID00119,The Truth About Smartphones Nobody Tells You,The Tonight Show,5,2024-01-02,2024-01-14,7361554,572958,9362,80913,FALSE,FALSE,trending|funny|unboxing|viral,321,https://i.ytimg.com/vi/119/mqdefault.jpg
+VID00120,How Smartphones Actually Works,The Tonight Show,2,2024-10-03,2024-10-06,21978965,2330400,62008,,TRUE,FALSE,challenge|reaction|viral|update,1669,https://i.ytimg.com/vi/120/mqdefault.jpg
+VID00121,I Challenged A Pro Gamer To Speedrun,Veritasium,6,2024-03-20,2024-03-25,6374354,725025,80842,27234,FALSE,TRUE,news|viral|reaction|epic|trending,3375,https://i.ytimg.com/vi/121/mqdefault.jpg
+VID00122,10 Things You Didn't Know About JavaScript,WWE,9,2024-04-21,2024-05-04,1943947,66120,9857,15144,FALSE,FALSE,shorts|science|reaction|challenge,3056,https://i.ytimg.com/vi/122/mqdefault.jpg
+VID00123,The Truth About The Internet Nobody Tells You,SSSniperWolf,10,2024-03-30,2024-04-10,22825074,1431589,113649,666410,FALSE,FALSE,update|prank|shorts|collab|review,2695,https://i.ytimg.com/vi/123/mqdefault.jpg
+VID00124,We Tested Every Crypto So You Don't Have To,TED,3,2024-08-25,2024-09-09,1983538,151222,22001,34040,FALSE,FALSE,reaction|gameplay|review,609,https://i.ytimg.com/vi/124/mqdefault.jpg
+VID00125,Reacting to Crypto For The First Time,The Tonight Show,10,2024-01-21,2024-02-04,2492236,96739,11283,54841,FALSE,FALSE,unboxing,2349,https://i.ytimg.com/vi/125/mqdefault.jpg
+VID00126,The Best Fast Food Ranked,Gordon Ramsay,8,2024-05-04,2024-05-16,20330350,1837393,120401,161435,FALSE,FALSE,vlog|update|top10|gameplay|shorts|tutorial,1377,https://i.ytimg.com/vi/126/mqdefault.jpg
+VID00127,I Challenged My Best Friend To Draw,Bon Appétit,6,2024-04-14,2024-04-20,10549920,647691,57484,78248,FALSE,FALSE,[none],657,https://i.ytimg.com/vi/127/mqdefault.jpg
+VID00128,30 Things You Didn't Know About Python,WWE,7,2024-10-18,2024-11-01,8295331,580093,58963,173045,FALSE,FALSE,unboxing|science|top10|funny|collab|update,1114,https://i.ytimg.com/vi/128/mqdefault.jpg
+VID00129,I Spent 100 Days Streaming And This Happened,NASA,2,2024-01-25,2024-02-07,264205,16179,2070,2037,FALSE,FALSE,viral,2956,https://i.ytimg.com/vi/129/mqdefault.jpg
+VID00130,Teaching My A CEO How To Cook,MrBeast,1,2024-09-29,2024-10-08,13852230,293460,24685,124219,FALSE,FALSE,[none],1234,https://i.ytimg.com/vi/130/mqdefault.jpg
+VID00131,How Smartphones Actually Works,WWE,4,2024-09-26,2024-10-01,11943069,558129,36594,141149,FALSE,FALSE,reaction|science|vlog,1723,https://i.ytimg.com/vi/131/mqdefault.jpg
+VID00132,I Spent 7 Days Streaming And This Happened,SSSniperWolf,8,2024-01-29,2024-02-09,367095,33142,715,9366,FALSE,FALSE,shorts|epic|trending|prank|top10|collab,2701,https://i.ytimg.com/vi/132/mqdefault.jpg
+VID00133,Teaching My A Kid How To Cook,Dream,1,2024-04-01,2024-04-16,10602355,228648,8917,54936,FALSE,FALSE,update|funny|vlog|prank|unboxing,3421,https://i.ytimg.com/vi/133/mqdefault.jpg
+VID00134,We Tested Every Smartphones So You Don't Have To,Red Bull,2,2024-09-13,2024-09-25,11655119,295686,21050,295125,FALSE,FALSE,update|shorts|viral|prank,1455,https://i.ytimg.com/vi/134/mqdefault.jpg
+VID00135,Surprising My Mom With GPUs,Dream,10,2024-07-13,2024-07-15,20807304,1030751,45871,65162,FALSE,FALSE,update,1157,https://i.ytimg.com/vi/135/mqdefault.jpg
+VID00136,I Challenged A Pro Gamer To Code,MrBeast,5,2024-08-15,2024-08-21,9101859,275086,6112,122860,FALSE,FALSE,prank|news|epic|viral,2341,https://i.ytimg.com/vi/136/mqdefault.jpg
+VID00137,We Tested Every Electric Cars So You Don't Have To,BuzzFeed,7,2024-07-17,2024-07-30,2892044,267468,23626,86151,FALSE,FALSE,prank|tutorial|update|funny,1054,https://i.ytimg.com/vi/137/mqdefault.jpg
+VID00138,Netflix Tier List 2024,Corridor Crew,5,2024-09-04,2024-09-17,2631052,147634,20992,57636,FALSE,FALSE,review|top10|epic|funny,2090,https://i.ytimg.com/vi/138/mqdefault.jpg
+VID00139,Smartphones Tier List 2024,Corridor Crew,10,2024-03-10,2024-03-15,10809737,868250,93198,160970,FALSE,FALSE,shorts|vlog|unboxing,787,https://i.ytimg.com/vi/139/mqdefault.jpg
+VID00140,Why Everyone Is Wrong About Calories,Vice,10,2024-04-12,2024-04-22,18358274,697480,81930,32688,FALSE,FALSE,review|top10|vlog,3038,https://i.ytimg.com/vi/140/mqdefault.jpg
+VID00141,Gaming Setups Tier List 2024,BuzzFeed,4,2024-05-09,2024-05-20,5222188,477953,57579,16423,FALSE,FALSE,update|prank|news,2509,https://i.ytimg.com/vi/141/mqdefault.jpg
+VID00142,100 Things You Didn't Know About The Internet,Dream,6,2024-03-26,2024-04-06,20608059,503448,74361,425488,FALSE,FALSE,shorts|news|epic|viral|trending|challenge,1696,https://i.ytimg.com/vi/142/mqdefault.jpg
+VID00143,Sleep Science Tier List 2024,The Tonight Show,8,2024-09-13,2024-09-16,11625184,1392351,108029,111224,FALSE,FALSE,[none],411,https://i.ytimg.com/vi/143/mqdefault.jpg
+VID00144,Surprising A CEO With Electric Cars,Kurzgesagt,6,2024-08-31,2024-09-02,14752409,1360163,99757,43490,FALSE,FALSE,epic|viral|shorts|unboxing|trending|top10,243,https://i.ytimg.com/vi/144/mqdefault.jpg
+VID00145,I Spent 10 Days Gaming And This Happened,5-Minute Crafts,9,2024-08-06,2024-08-14,7829781,781220,76689,50151,FALSE,FALSE,update|viral|review,2752,https://i.ytimg.com/vi/145/mqdefault.jpg
+VID00146,Sleep Science Tier List 2024,Smosh,2,2024-10-01,2024-10-04,12323977,648222,48005,106087,FALSE,FALSE,prank|shorts|update,3593,https://i.ytimg.com/vi/146/mqdefault.jpg
+VID00147,The Truth About Electric Cars Nobody Tells You,NASA,5,2024-02-13,2024-02-24,4544541,233219,10121,19957,FALSE,FALSE,challenge|prank|update|review|vlog,1589,https://i.ytimg.com/vi/147/mqdefault.jpg
+VID00148,We Tested Every Calories So You Don't Have To,Kurzgesagt,5,2024-03-12,2024-03-15,10605553,1105082,106880,276806,FALSE,FALSE,challenge|review|update,99,https://i.ytimg.com/vi/148/mqdefault.jpg
+VID00149,Surprising My Mom With Algorithms,NASA,8,2024-09-07,2024-09-10,2823965,216145,26245,20884,FALSE,FALSE,reaction|vlog,193,https://i.ytimg.com/vi/149/mqdefault.jpg
+VID00150,Reacting to YouTube For The First Time,Dude Perfect,5,2024-10-05,2024-10-19,12359838,917153,106343,284772,FALSE,FALSE,review|news|epic|collab,1867,https://i.ytimg.com/vi/150/mqdefault.jpg
+VID00151,I Challenged A CEO To Stream,Veritasium,2,2024-05-01,2024-05-05,24800184,1954065,115462,535978,FALSE,FALSE,tutorial|challenge|review,2651,https://i.ytimg.com/vi/151/mqdefault.jpg
+VID00152,Why Everyone Is Wrong About Space,Vsauce,6,2024-05-29,2024-06-03,19267817,900468,117171,569925,FALSE,FALSE,epic|challenge|news|top10|viral|prank,2842,https://i.ytimg.com/vi/152/mqdefault.jpg
+VID00153,Working Out For 24 Hours Straight,NASA,4,2024-07-20,2024-07-28,4820488,374757,17846,62726,FALSE,FALSE,[none],1911,https://i.ytimg.com/vi/153/mqdefault.jpg
+VID00154,Space Tier List 2024,Veritasium,8,2024-06-16,2024-06-26,132982,14214,1827,492,FALSE,FALSE,collab|funny|update|epic|review,1937,https://i.ytimg.com/vi/154/mqdefault.jpg
+VID00155,Teaching My A Kid How To Draw,Red Bull,6,2024-01-25,2024-01-26,3391173,280171,35620,4992,FALSE,FALSE,top10,3572,https://i.ytimg.com/vi/155/mqdefault.jpg
+VID00156,Surprising A Kid With Gaming Setups,Vsauce,5,2024-02-17,2024-02-28,12144204,546961,33943,330446,FALSE,FALSE,[none],737,https://i.ytimg.com/vi/156/mqdefault.jpg
+VID00157,Coding For 24 Hours Straight,MrBeast,4,2024-09-01,2024-09-03,4502666,357367,29562,62618,FALSE,FALSE,shorts|epic|news|collab|funny,93,https://i.ytimg.com/vi/157/mqdefault.jpg
+VID00158,Surprising My Best Friend With Sleep Science,Mark Rober,7,2024-03-09,2024-03-20,22770950,780709,65791,28367,FALSE,FALSE,top10,2722,https://i.ytimg.com/vi/158/mqdefault.jpg
+VID00159,I Challenged A Kid To Draw,Vox,2,2024-03-12,2024-03-25,4182470,330236,21057,121016,FALSE,FALSE,challenge|reaction|gameplay|shorts|trending|epic,1348,https://i.ytimg.com/vi/159/mqdefault.jpg
+VID00160,7 Things You Didn't Know About Netflix,Linus Tech Tips,9,2024-09-17,2024-09-21,13194982,653866,11533,356785,FALSE,FALSE,update|epic|reaction,1040,https://i.ytimg.com/vi/160/mqdefault.jpg
+VID00161,Reacting to Python For The First Time,TED,10,2024-08-03,2024-08-09,18382672,1623083,189546,,TRUE,FALSE,[none],3215,https://i.ytimg.com/vi/161/mqdefault.jpg
+VID00162,Netflix: Is It Worth It?,BuzzFeed,9,2024-07-31,2024-08-07,23598857,1421305,141668,,TRUE,FALSE,funny|vlog,685,https://i.ytimg.com/vi/162/mqdefault.jpg
+VID00163,Surprising A Kid With AI,Shroud,2,2024-06-07,2024-06-19,14729595,1369791,176025,39464,FALSE,FALSE,epic|top10|trending,413,https://i.ytimg.com/vi/163/mqdefault.jpg
+VID00164,The Best Coffee Ranked,TechLead,1,2024-03-24,2024-04-01,11683493,844722,101044,255894,FALSE,FALSE,challenge|gameplay,743,https://i.ytimg.com/vi/164/mqdefault.jpg
+VID00165,How Algorithms Actually Works,PewDiePie,5,2024-10-22,2024-11-02,2636041,183507,14957,6874,FALSE,FALSE,tutorial|collab|science|challenge,3579,https://i.ytimg.com/vi/165/mqdefault.jpg
+VID00166,Surprising My Best Friend With Netflix,TED,1,2024-05-05,2024-05-06,15879792,895582,124335,98293,FALSE,FALSE,[none],3572,https://i.ytimg.com/vi/166/mqdefault.jpg
+VID00167,Teaching My A Stranger How To Draw,Vice,6,2024-05-18,2024-06-01,2663456,205495,5490,54671,FALSE,FALSE,reaction,275,https://i.ytimg.com/vi/167/mqdefault.jpg
+VID00168,The Internet: Is It Worth It?,PewDiePie,9,2024-08-21,2024-08-22,12428879,497989,44287,121969,FALSE,FALSE,top10,2610,https://i.ytimg.com/vi/168/mqdefault.jpg
+VID00169,Surprising A CEO With Crypto,Vice,7,2024-01-13,2024-01-17,18221241,995651,126985,481747,FALSE,FALSE,[none],1432,https://i.ytimg.com/vi/169/mqdefault.jpg
+VID00170,The Truth About Python Nobody Tells You,Corridor Crew,8,2024-01-31,2024-02-03,23929094,1148178,18538,184558,FALSE,FALSE,news|collab|top10|prank,3523,https://i.ytimg.com/vi/170/mqdefault.jpg
+VID00171,The Truth About Space Nobody Tells You,Mark Rober,4,2024-05-29,2024-06-03,10619945,1195850,77746,266827,FALSE,FALSE,top10|gameplay,1396,https://i.ytimg.com/vi/171/mqdefault.jpg
+VID00172,Why Everyone Is Wrong About Crypto,Veritasium,8,2024-06-09,2024-06-16,4101252,301821,43778,28796,FALSE,FALSE,gameplay|epic|funny,1322,https://i.ytimg.com/vi/172/mqdefault.jpg
+VID00173,100 Things You Didn't Know About Fast Food,PewDiePie,4,2024-07-01,2024-07-08,17278847,430157,22298,428214,FALSE,FALSE,[none],772,https://i.ytimg.com/vi/173/mqdefault.jpg
+VID00174,Streaming For 24 Hours Straight,Red Bull,3,2024-03-03,2024-03-04,2119274,218364,32221,10152,FALSE,FALSE,collab|funny|gameplay,3433,https://i.ytimg.com/vi/174/mqdefault.jpg
+VID00175,I Tried YouTube For 30 Days,Vox,6,2024-03-03,2024-03-04,15518422,388950,54211,210453,FALSE,FALSE,unboxing|viral|update,3027,https://i.ytimg.com/vi/175/mqdefault.jpg
+VID00176,AI: Is It Worth It?,T-Series,10,2024-05-05,2024-05-16,9952086,695542,92916,148205,FALSE,FALSE,update|challenge,419,https://i.ytimg.com/vi/176/mqdefault.jpg
+VID00177,The Best Calories Ranked,NatGeo,8,2024-10-05,2024-10-18,16313144,887490,79156,168458,FALSE,FALSE,viral,1167,https://i.ytimg.com/vi/177/mqdefault.jpg
+VID00178,I Tried GPUs For 30 Days,Bon Appétit,10,2024-04-29,2024-05-02,3409950,152717,6683,56185,FALSE,FALSE,trending|reaction|update|tutorial|news,3300,https://i.ytimg.com/vi/178/mqdefault.jpg
+VID00179,I Tried Calories For 30 Days,TechLead,6,2024-10-17,2024-10-27,4818161,367678,13366,142868,FALSE,FALSE,vlog|tutorial|unboxing|viral,2076,https://i.ytimg.com/vi/179/mqdefault.jpg
+VID00180,The Best Fast Food Ranked,Vice,10,2024-04-13,2024-04-26,4428502,239475,8344,,TRUE,FALSE,[none],1385,https://i.ytimg.com/vi/180/mqdefault.jpg
+VID00181,The Best GPUs Ranked,PewDiePie,6,2024-07-21,2024-07-31,3440077,184581,10182,100794,FALSE,FALSE,unboxing|shorts|tutorial,3059,https://i.ytimg.com/vi/181/mqdefault.jpg
+VID00182,I Challenged A Pro Gamer To Cook,Smosh,3,2024-07-12,2024-07-17,24678784,2192706,61020,546291,FALSE,FALSE,update|trending|tutorial|vlog,2935,https://i.ytimg.com/vi/182/mqdefault.jpg
+VID00183,Reacting to AI For The First Time,5-Minute Crafts,2,2024-05-01,2024-05-07,10771267,396261,53077,38486,FALSE,FALSE,shorts|top10|viral|challenge|epic,2963,https://i.ytimg.com/vi/183/mqdefault.jpg
+VID00184,Gaming Setups Tier List 2024,Veritasium,7,2024-03-26,2024-04-10,13942177,966307,60896,234712,FALSE,FALSE,unboxing|reaction|tutorial|prank|trending|update,475,https://i.ytimg.com/vi/184/mqdefault.jpg
+VID00185,The Truth About Netflix Nobody Tells You,Vox,7,2024-03-23,2024-04-04,2566663,191741,26026,9496,FALSE,FALSE,unboxing|viral|news|shorts,2493,https://i.ytimg.com/vi/185/mqdefault.jpg
+VID00186,Why Everyone Is Wrong About Crypto,Corridor Crew,9,2024-10-03,2024-10-08,22215987,1069751,46273,,TRUE,FALSE,unboxing|challenge|trending|tutorial,2401,https://i.ytimg.com/vi/186/mqdefault.jpg
+VID00187,We Tested Every Sleep Science So You Don't Have To,Linus Tech Tips,3,2024-05-29,2024-05-31,15940394,1663809,88463,199678,FALSE,FALSE,gameplay|funny|update|prank|tutorial,2063,https://i.ytimg.com/vi/187/mqdefault.jpg
+VID00188,30 Things You Didn't Know About The Internet,WWE,5,2024-10-15,2024-10-16,5121103,487649,50445,17849,FALSE,FALSE,science|news|reaction|gameplay|viral|review,1468,https://i.ytimg.com/vi/188/mqdefault.jpg
+VID00189,The Truth About Crypto Nobody Tells You,PewDiePie,7,2024-01-18,2024-01-27,19216960,2114740,258131,396801,FALSE,FALSE,epic,2600,https://i.ytimg.com/vi/189/mqdefault.jpg
+VID00190,We Tested Every Algorithms So You Don't Have To,Corridor Crew,2,2024-08-10,2024-08-14,21096219,733891,68476,216715,FALSE,FALSE,funny|science|update|gameplay|review|top10,3038,https://i.ytimg.com/vi/190/mqdefault.jpg
+VID00191,We Tested Every Calories So You Don't Have To,Corridor Crew,3,2024-03-16,2024-03-26,19777795,1547962,224572,77250,FALSE,FALSE,epic|vlog|collab|top10,492,https://i.ytimg.com/vi/191/mqdefault.jpg
+VID00192,Why Everyone Is Wrong About YouTube,CNN,7,2024-03-14,2024-03-24,20473081,1803295,119451,255462,FALSE,TRUE,reaction|trending|unboxing|top10|challenge,1417,https://i.ytimg.com/vi/192/mqdefault.jpg
+VID00193,We Tested Every GPUs So You Don't Have To,Dream,2,2024-04-26,2024-04-29,10132450,1189771,85705,252793,FALSE,FALSE,news|funny|review|reaction|epic,1163,https://i.ytimg.com/vi/193/mqdefault.jpg
+VID00194,I Tried Python For 30 Days,Red Bull,3,2024-02-03,2024-02-08,23859198,1686356,48889,612884,FALSE,FALSE,[none],2389,https://i.ytimg.com/vi/194/mqdefault.jpg
+VID00195,We Tested Every GPUs So You Don't Have To,Vice,6,2024-04-11,2024-04-16,12409839,1270154,102523,241084,FALSE,FALSE,viral|reaction|collab|prank|vlog,567,https://i.ytimg.com/vi/195/mqdefault.jpg
+VID00196,Space: Is It Worth It?,NASA,5,2024-02-16,2024-02-21,971085,56960,1868,17086,FALSE,FALSE,reaction|science|review|challenge|shorts|unboxing,937,https://i.ytimg.com/vi/196/mqdefault.jpg
+VID00197,I Tried Algorithms For 30 Days,Ninja,1,2024-04-24,2024-04-29,20462633,2056669,108518,594310,FALSE,FALSE,news|update,2692,https://i.ytimg.com/vi/197/mqdefault.jpg
+VID00198,How YouTube Actually Works,Smosh,2,2024-01-04,2024-01-13,22274960,2598341,331322,,TRUE,FALSE,vlog|science|epic|reaction,2492,https://i.ytimg.com/vi/198/mqdefault.jpg
+VID00199,The Best Smartphones Ranked,TechLead,5,2024-04-06,2024-04-09,17407492,1680648,228494,424002,FALSE,FALSE,update|shorts|challenge|collab|viral|prank,3346,https://i.ytimg.com/vi/199/mqdefault.jpg
+VID00200,The Truth About Calories Nobody Tells You,Smosh,10,2024-04-07,2024-04-13,24428968,2231266,236702,476635,FALSE,FALSE,collab|prank|vlog|news|funny,2008,https://i.ytimg.com/vi/200/mqdefault.jpg
+VID00201,Coding For 24 Hours Straight,CNN,9,2024-04-03,2024-04-14,11311956,966532,39739,84573,FALSE,FALSE,shorts|collab|gameplay,1317,https://i.ytimg.com/vi/201/mqdefault.jpg
+VID00202,The Truth About Netflix Nobody Tells You,MKBHD,2,2024-07-14,2024-07-23,10061157,616856,81374,54054,FALSE,FALSE,news|top10,880,https://i.ytimg.com/vi/202/mqdefault.jpg
+VID00203,We Tested Every Python So You Don't Have To,5-Minute Crafts,1,2024-01-03,2024-01-11,9228072,377780,44689,163448,FALSE,FALSE,funny|challenge|news,708,https://i.ytimg.com/vi/203/mqdefault.jpg
+VID00204,Reacting to Python For The First Time,Gordon Ramsay,6,2024-01-08,2024-01-23,10861678,1039297,87659,16505,FALSE,FALSE,reaction|science|collab|challenge|funny,76,https://i.ytimg.com/vi/204/mqdefault.jpg
+VID00205,Teaching My A Kid How To Cook,Veritasium,9,2024-09-25,2024-10-01,14601390,1588593,237282,159728,FALSE,FALSE,review|tutorial,2067,https://i.ytimg.com/vi/205/mqdefault.jpg
+VID00206,Coding For 24 Hours Straight,Linus Tech Tips,1,2024-09-15,2024-09-18,4182630,236984,23953,8714,FALSE,TRUE,science|trending,2682,https://i.ytimg.com/vi/206/mqdefault.jpg
+VID00207,I Challenged A CEO To Build a PC,The Tonight Show,2,2024-10-07,2024-10-12,15968099,1440112,55832,333517,FALSE,FALSE,news|epic,98,https://i.ytimg.com/vi/207/mqdefault.jpg
+VID00208,The Best Calories Ranked,Ninja,2,2024-05-24,2024-05-26,3615618,252275,24031,85186,FALSE,FALSE,review|collab|news|challenge,3465,https://i.ytimg.com/vi/208/mqdefault.jpg
+VID00209,Reacting to Python For The First Time,MrBeast,1,2024-02-15,2024-03-01,3755446,388775,40301,19998,FALSE,FALSE,prank|funny|epic|top10|challenge|shorts,428,https://i.ytimg.com/vi/209/mqdefault.jpg
+VID00210,How GPUs Actually Works,TED,1,2024-05-28,2024-06-03,22758516,1166845,132315,,TRUE,FALSE,[none],3165,https://i.ytimg.com/vi/210/mqdefault.jpg
+VID00211,I Spent 10 Days Coding And This Happened,CNN,2,2024-07-09,2024-07-23,11549866,442209,29233,333871,FALSE,FALSE,update|unboxing|news|shorts|science|funny,1173,https://i.ytimg.com/vi/211/mqdefault.jpg
+VID00212,Algorithms Tier List 2024,Red Bull,10,2024-08-12,2024-08-15,20562601,1192118,71770,,TRUE,FALSE,challenge|unboxing|prank|trending|review|reaction,2863,https://i.ytimg.com/vi/212/mqdefault.jpg
+VID00213,Why Everyone Is Wrong About Python,Gordon Ramsay,10,2024-04-24,2024-05-05,11401485,819880,87197,215817,FALSE,FALSE,reaction|unboxing|collab|shorts|top10,1832,https://i.ytimg.com/vi/213/mqdefault.jpg
+VID00214,I Tried Smartphones For 30 Days,Vice,3,2024-09-15,2024-09-29,15796723,1661611,218864,50092,FALSE,FALSE,reaction|shorts,2073,https://i.ytimg.com/vi/214/mqdefault.jpg
+VID00215,I Spent 7 Days Drawing And This Happened,PewDiePie,8,2024-08-15,2024-08-28,19277861,1249395,162324,269214,FALSE,FALSE,viral|epic|update,546,https://i.ytimg.com/vi/215/mqdefault.jpg
+VID00216,I Spent 24 Days Cooking And This Happened,Linus Tech Tips,8,2024-06-23,2024-06-29,1871173,190221,24387,19885,FALSE,FALSE,unboxing|collab|top10|trending,3203,https://i.ytimg.com/vi/216/mqdefault.jpg
+VID00217,Gaming For 24 Hours Straight,NatGeo,2,2024-01-24,2024-02-08,5558140,384857,48129,125240,FALSE,FALSE,[none],1736,https://i.ytimg.com/vi/217/mqdefault.jpg
+VID00218,30 Things You Didn't Know About Calories,5-Minute Crafts,2,2024-07-31,2024-08-01,21298024,2209598,204240,,TRUE,FALSE,prank|challenge|unboxing,1905,https://i.ytimg.com/vi/218/mqdefault.jpg
+VID00219,Reacting to Space For The First Time,TechLead,10,2024-03-29,2024-04-10,4357777,132282,13499,80961,FALSE,FALSE,update|news|reaction|challenge,1378,https://i.ytimg.com/vi/219/mqdefault.jpg
+VID00220,How Electric Cars Actually Works,Ninja,9,2024-06-02,2024-06-16,23588243,1763942,95160,527615,FALSE,FALSE,review|science|prank|vlog|collab,2327,https://i.ytimg.com/vi/220/mqdefault.jpg
+VID00221,I Spent 30 Days Gaming And This Happened,TechLead,6,2024-02-29,2024-03-13,11869139,904760,82869,336342,FALSE,FALSE,science|vlog|news,2968,https://i.ytimg.com/vi/221/mqdefault.jpg
+VID00222,Drawing For 24 Hours Straight,Linus Tech Tips,5,2024-03-23,2024-03-28,22980774,1035424,132030,,TRUE,FALSE,science,1268,https://i.ytimg.com/vi/222/mqdefault.jpg
+VID00223,Why Everyone Is Wrong About The Internet,SSSniperWolf,7,2024-05-01,2024-05-10,23408196,1141474,117605,652340,FALSE,FALSE,shorts|trending|viral,1647,https://i.ytimg.com/vi/223/mqdefault.jpg
+VID00224,7 Things You Didn't Know About Python,TechLead,6,2024-10-06,2024-10-18,20296307,804685,89712,134187,FALSE,FALSE,funny,1898,https://i.ytimg.com/vi/224/mqdefault.jpg
+VID00225,I Spent 100 Days Drawing And This Happened,SSSniperWolf,5,2024-03-07,2024-03-10,19645320,2054928,22173,285320,FALSE,FALSE,[none],694,https://i.ytimg.com/vi/225/mqdefault.jpg
+VID00226,I Tried GPUs For 30 Days,SSSniperWolf,6,2024-02-07,2024-02-20,23795852,1232289,50270,150680,FALSE,FALSE,prank|tutorial|news|gameplay|top10|review,339,https://i.ytimg.com/vi/226/mqdefault.jpg
+VID00227,I Challenged A Pro Gamer To Code,Bon Appétit,10,2024-09-28,2024-10-06,18885266,1933262,284882,23706,FALSE,FALSE,top10|reaction,2799,https://i.ytimg.com/vi/227/mqdefault.jpg
+VID00228,Drawing For 24 Hours Straight,The Tonight Show,5,2024-10-03,2024-10-15,9540166,214372,17655,222708,FALSE,FALSE,prank|top10|unboxing|viral|challenge|shorts,2166,https://i.ytimg.com/vi/228/mqdefault.jpg
+VID00229,I Spent 10 Days Drawing And This Happened,Linus Tech Tips,4,2024-08-05,2024-08-19,3537205,143461,18079,93666,FALSE,FALSE,news|funny|challenge|viral|reaction|collab,3096,https://i.ytimg.com/vi/229/mqdefault.jpg
+VID00230,Working Out For 24 Hours Straight,Smosh,4,2024-05-12,2024-05-19,13070213,851035,56698,132998,FALSE,FALSE,epic|viral|funny|update|collab,1655,https://i.ytimg.com/vi/230/mqdefault.jpg
+VID00231,How GPUs Actually Works,BuzzFeed,10,2024-02-14,2024-02-19,14735974,856769,107179,27906,FALSE,FALSE,reaction|challenge|update|unboxing,700,https://i.ytimg.com/vi/231/mqdefault.jpg
+VID00232,Why Everyone Is Wrong About Electric Cars,TED,9,2024-03-13,2024-03-15,1451674,29763,2783,24064,FALSE,FALSE,review|collab,408,https://i.ytimg.com/vi/232/mqdefault.jpg
+VID00233,Surprising A Stranger With Netflix,Ninja,5,2024-04-09,2024-04-11,6135364,534376,47784,,TRUE,FALSE,top10|funny|vlog|shorts,3136,https://i.ytimg.com/vi/233/mqdefault.jpg
+VID00234,I Spent 24 Days Gaming And This Happened,Dream,4,2024-02-21,2024-02-26,20837500,562214,20852,314437,FALSE,FALSE,vlog|challenge|collab|update,1404,https://i.ytimg.com/vi/234/mqdefault.jpg
+VID00235,I Challenged My Best Friend To Stream,Shroud,7,2024-05-21,2024-06-04,12112348,404922,45600,320476,FALSE,FALSE,collab|vlog|unboxing,1955,https://i.ytimg.com/vi/235/mqdefault.jpg
+VID00236,30 Things You Didn't Know About Space,Linus Tech Tips,5,2024-02-09,2024-02-21,2580002,281763,36331,49838,FALSE,FALSE,update|review|trending|gameplay,3388,https://i.ytimg.com/vi/236/mqdefault.jpg
+VID00237,How Calories Actually Works,WWE,10,2024-05-28,2024-05-31,15642782,1096751,24871,180707,FALSE,FALSE,reaction|tutorial|challenge|science|funny,103,https://i.ytimg.com/vi/237/mqdefault.jpg
+VID00238,I Spent 24 Days Coding And This Happened,WWE,8,2024-04-28,2024-04-30,8920352,507956,8123,62410,FALSE,FALSE,update|unboxing,3301,https://i.ytimg.com/vi/238/mqdefault.jpg
+VID00239,Calories Tier List 2024,NASA,5,2024-10-23,2024-11-01,19181400,717096,72795,222381,FALSE,FALSE,funny|prank|gameplay|review|epic|unboxing,2736,https://i.ytimg.com/vi/239/mqdefault.jpg
+VID00240,How Netflix Actually Works,MKBHD,3,2024-08-13,2024-08-16,7767209,215220,21540,55411,FALSE,FALSE,collab,825,https://i.ytimg.com/vi/240/mqdefault.jpg
+VID00241,The Best Python Ranked,Kurzgesagt,8,2024-09-02,2024-09-06,19873653,717928,90940,32810,FALSE,FALSE,tutorial,236,https://i.ytimg.com/vi/241/mqdefault.jpg
+VID00242,The Truth About Coffee Nobody Tells You,Vice,3,2024-09-21,2024-09-28,20161101,2357324,234004,533800,FALSE,FALSE,vlog|funny|review|reaction|science,3041,https://i.ytimg.com/vi/242/mqdefault.jpg
+VID00243,100 Things You Didn't Know About Coffee,Red Bull,10,2024-04-03,2024-04-13,22184139,1576859,52794,463252,FALSE,TRUE,funny|reaction|update|review,1917,https://i.ytimg.com/vi/243/mqdefault.jpg
+VID00244,The Best AI Ranked,Dude Perfect,3,2024-08-31,2024-09-15,20677525,1653816,219767,339348,FALSE,FALSE,[none],3141,https://i.ytimg.com/vi/244/mqdefault.jpg
+VID00245,Why Everyone Is Wrong About Coffee,Corridor Crew,9,2024-08-03,2024-08-09,1507546,135323,9479,42534,FALSE,FALSE,update|collab|epic|review|funny|challenge,2034,https://i.ytimg.com/vi/245/mqdefault.jpg
+VID00246,I Challenged A CEO To Draw,MrBeast,1,2024-10-22,2024-10-31,4003671,288168,18011,27854,FALSE,FALSE,news|collab,3354,https://i.ytimg.com/vi/246/mqdefault.jpg
+VID00247,Teaching My A Kid How To Cook,Ninja,5,2024-07-22,2024-08-04,6884825,422196,50549,103214,FALSE,FALSE,science|unboxing|gameplay|challenge,1576,https://i.ytimg.com/vi/247/mqdefault.jpg
+VID00248,We Tested Every Gaming Setups So You Don't Have To,Veritasium,3,2024-02-21,2024-02-25,17107178,1027390,58952,290252,FALSE,FALSE,trending|tutorial|update|shorts|viral,2915,https://i.ytimg.com/vi/248/mqdefault.jpg
+VID00249,Why Everyone Is Wrong About Crypto,WWE,6,2024-02-10,2024-02-20,1316858,121742,17079,16617,FALSE,TRUE,vlog|trending|tutorial|shorts,2747,https://i.ytimg.com/vi/249/mqdefault.jpg
+VID00250,Crypto Tier List 2024,MKBHD,9,2024-04-28,2024-05-08,5736902,501419,30267,114712,FALSE,FALSE,[none],704,https://i.ytimg.com/vi/250/mqdefault.jpg
+VID00251,7 Things You Didn't Know About Gaming Setups,Gordon Ramsay,2,2024-02-16,2024-02-25,9596027,888725,78453,,TRUE,FALSE,gameplay|reaction|review|prank|unboxing|vlog,1483,https://i.ytimg.com/vi/251/mqdefault.jpg
+VID00252,I Challenged A Stranger To Code,5-Minute Crafts,2,2024-09-19,2024-09-24,18099042,1833699,165922,382461,FALSE,FALSE,unboxing|reaction|shorts|update,1604,https://i.ytimg.com/vi/252/mqdefault.jpg
+VID00253,10 Things You Didn't Know About Netflix,The Tonight Show,4,2024-04-27,2024-05-10,10644164,651876,38743,175989,FALSE,FALSE,gameplay|reaction|vlog|trending|review|shorts,2930,https://i.ytimg.com/vi/253/mqdefault.jpg
+VID00254,Fast Food Tier List 2024,Vox,10,2024-05-17,2024-05-20,22971277,2596340,95086,514011,FALSE,FALSE,reaction|gameplay|review|epic|top10,1021,https://i.ytimg.com/vi/254/mqdefault.jpg
+VID00255,Reacting to Space For The First Time,Dream,8,2024-01-04,2024-01-17,18218850,2109730,271567,214339,FALSE,FALSE,gameplay|unboxing|tutorial,1351,https://i.ytimg.com/vi/255/mqdefault.jpg
+VID00256,How Fast Food Actually Works,Red Bull,7,2024-09-01,2024-09-10,1142621,80266,5226,23885,FALSE,TRUE,epic|prank|top10,775,https://i.ytimg.com/vi/256/mqdefault.jpg
+VID00257,Smartphones: Is It Worth It?,Ninja,5,2024-04-05,2024-04-14,8869750,387731,29463,166568,FALSE,FALSE,unboxing,1558,https://i.ytimg.com/vi/257/mqdefault.jpg
+VID00258,We Tested Every Coffee So You Don't Have To,Vsauce,10,2024-03-08,2024-03-18,23068740,988649,23709,203662,FALSE,FALSE,news|update|review|funny,1025,https://i.ytimg.com/vi/258/mqdefault.jpg
+VID00259,I Spent 10 Days Drawing And This Happened,Vox,9,2024-09-30,2024-10-12,10644048,1048793,54542,184163,FALSE,FALSE,[none],2385,https://i.ytimg.com/vi/259/mqdefault.jpg
+VID00260,How Electric Cars Actually Works,Dude Perfect,8,2024-06-20,2024-06-25,12161875,681437,59999,297849,FALSE,FALSE,[none],1469,https://i.ytimg.com/vi/260/mqdefault.jpg
+VID00261,The Best Electric Cars Ranked,5-Minute Crafts,9,2024-09-06,2024-09-19,24763717,1602039,33606,465465,FALSE,FALSE,challenge|tutorial|shorts|review|unboxing,1959,https://i.ytimg.com/vi/261/mqdefault.jpg
+VID00262,I Tried Gaming Setups For 30 Days,5-Minute Crafts,6,2024-05-29,2024-06-10,9024884,726850,47509,241353,FALSE,FALSE,collab|prank|top10|review|funny|news,3258,https://i.ytimg.com/vi/262/mqdefault.jpg
+VID00263,Cooking For 24 Hours Straight,The Tonight Show,2,2024-02-18,2024-02-20,15927480,1192066,16320,199306,FALSE,FALSE,[none],3193,https://i.ytimg.com/vi/263/mqdefault.jpg
+VID00264,Reacting to Space For The First Time,BuzzFeed,8,2024-03-05,2024-03-08,17724539,1840724,25770,358796,FALSE,FALSE,unboxing|top10,3584,https://i.ytimg.com/vi/264/mqdefault.jpg
+VID00265,We Tested Every Coffee So You Don't Have To,Vsauce,10,2024-08-21,2024-09-01,21385623,2303859,163336,418170,FALSE,FALSE,collab|unboxing,2246,https://i.ytimg.com/vi/265/mqdefault.jpg
+VID00266,I Spent 100 Days Cooking And This Happened,BuzzFeed,1,2024-01-01,2024-01-10,4623484,251464,19032,5738,FALSE,FALSE,unboxing|vlog|viral|update|review|top10,2074,https://i.ytimg.com/vi/266/mqdefault.jpg
+VID00267,YouTube: Is It Worth It?,Corridor Crew,7,2024-05-07,2024-05-10,24039337,2252769,145441,287808,FALSE,FALSE,[none],1137,https://i.ytimg.com/vi/267/mqdefault.jpg
+VID00268,I Spent 100 Days Coding And This Happened,Gordon Ramsay,9,2024-05-17,2024-05-24,6358254,669830,23803,59756,FALSE,TRUE,top10|gameplay|unboxing,2668,https://i.ytimg.com/vi/268/mqdefault.jpg
+VID00269,Space Tier List 2024,CNN,3,2024-08-12,2024-08-24,325283,14078,437,4981,FALSE,FALSE,vlog|unboxing|collab,1460,https://i.ytimg.com/vi/269/mqdefault.jpg
+VID00270,I Tried Fast Food For 30 Days,Bon Appétit,7,2024-02-06,2024-02-15,15825508,603907,81767,130596,FALSE,FALSE,viral|epic|reaction|review|update|unboxing,1622,https://i.ytimg.com/vi/270/mqdefault.jpg
+VID00271,The Best Crypto Ranked,Linus Tech Tips,8,2024-07-18,2024-07-29,10522652,1195599,38504,232749,FALSE,FALSE,prank|epic|gameplay|reaction,3110,https://i.ytimg.com/vi/271/mqdefault.jpg
+VID00272,Surprising A Stranger With Space,Shroud,7,2024-06-15,2024-06-16,5665681,563389,51751,70698,FALSE,FALSE,[none],1055,https://i.ytimg.com/vi/272/mqdefault.jpg
+VID00273,Surprising My Best Friend With Fast Food,WWE,3,2024-09-12,2024-09-14,23066482,1888325,264967,,TRUE,FALSE,[none],2620,https://i.ytimg.com/vi/273/mqdefault.jpg
+VID00274,The Truth About Calories Nobody Tells You,WWE,6,2024-10-12,2024-10-25,21680729,2074189,254655,297521,FALSE,FALSE,[none],850,https://i.ytimg.com/vi/274/mqdefault.jpg
+VID00275,Why Everyone Is Wrong About GPUs,SSSniperWolf,5,2024-10-04,2024-10-16,16494758,642925,23227,182799,FALSE,FALSE,gameplay|tutorial|funny,3059,https://i.ytimg.com/vi/275/mqdefault.jpg
+VID00276,30 Things You Didn't Know About Algorithms,Bon Appétit,9,2024-07-13,2024-07-25,6275497,679593,65759,72533,FALSE,FALSE,shorts,2600,https://i.ytimg.com/vi/276/mqdefault.jpg
+VID00277,I Tried Smartphones For 30 Days,Bon Appétit,9,2024-03-19,2024-03-29,9550235,499095,49773,,TRUE,FALSE,funny|trending|challenge|science|news,2203,https://i.ytimg.com/vi/277/mqdefault.jpg
+VID00278,The Best GPUs Ranked,MKBHD,10,2024-05-11,2024-05-12,12342801,519289,57380,,TRUE,FALSE,unboxing|funny|top10|update|shorts,914,https://i.ytimg.com/vi/278/mqdefault.jpg
+VID00279,How Electric Cars Actually Works,NASA,10,2024-05-16,2024-05-25,1414093,132118,16755,4610,FALSE,FALSE,epic|science|reaction|gameplay,944,https://i.ytimg.com/vi/279/mqdefault.jpg
+VID00280,Teaching My A CEO How To Stream,SSSniperWolf,7,2024-02-24,2024-03-08,21478675,1667955,174182,459084,FALSE,FALSE,[none],1809,https://i.ytimg.com/vi/280/mqdefault.jpg
+VID00281,Smartphones Tier List 2024,Veritasium,6,2024-06-10,2024-06-19,10943584,1143444,77443,211911,FALSE,FALSE,shorts|reaction|review|unboxing|update,3443,https://i.ytimg.com/vi/281/mqdefault.jpg
+VID00282,Surprising A CEO With Algorithms,T-Series,5,2024-01-09,2024-01-18,4582724,546907,28580,,TRUE,FALSE,shorts,968,https://i.ytimg.com/vi/282/mqdefault.jpg
+VID00283,I Challenged A Kid To Code,Vice,10,2024-03-20,2024-03-22,1316220,86919,2768,11430,FALSE,FALSE,reaction,2444,https://i.ytimg.com/vi/283/mqdefault.jpg
+VID00284,Coffee Tier List 2024,Gordon Ramsay,6,2024-09-04,2024-09-07,16433837,1685627,179592,291055,FALSE,FALSE,vlog|trending|update|prank,450,https://i.ytimg.com/vi/284/mqdefault.jpg
+VID00285,Teaching My My Mom How To Cook,TED,4,2024-01-06,2024-01-17,21262897,1238536,65233,,TRUE,FALSE,challenge|shorts|reaction|funny,2271,https://i.ytimg.com/vi/285/mqdefault.jpg
+VID00286,The Truth About Crypto Nobody Tells You,Corridor Crew,5,2024-07-20,2024-07-23,4485528,240499,18426,101436,FALSE,FALSE,gameplay|funny|update,2305,https://i.ytimg.com/vi/286/mqdefault.jpg
+VID00287,AI Tier List 2024,Shroud,10,2024-04-10,2024-04-19,20719423,2480278,206842,166317,FALSE,FALSE,news|shorts|funny|trending|prank|review,1150,https://i.ytimg.com/vi/287/mqdefault.jpg
+VID00288,I Challenged My Mom To Draw,NatGeo,10,2024-08-14,2024-08-24,4942856,316571,44126,38411,FALSE,FALSE,challenge|funny,2867,https://i.ytimg.com/vi/288/mqdefault.jpg
+VID00289,Surprising My Mom With Algorithms,TechLead,2,2024-06-05,2024-06-13,15860523,353290,13870,263318,FALSE,FALSE,prank|gameplay|unboxing|vlog,894,https://i.ytimg.com/vi/289/mqdefault.jpg
+VID00290,Why Everyone Is Wrong About Fast Food,Vsauce,1,2024-05-25,2024-05-29,23421557,1915800,33396,468149,FALSE,FALSE,[none],94,https://i.ytimg.com/vi/290/mqdefault.jpg
+VID00291,Surprising A CEO With The Internet,TED,7,2024-04-28,2024-05-05,17113781,2013627,48215,173674,FALSE,FALSE,funny|tutorial|review|gameplay,2505,https://i.ytimg.com/vi/291/mqdefault.jpg
+VID00292,Reacting to AI For The First Time,5-Minute Crafts,8,2024-07-20,2024-08-01,5318222,116135,12287,60127,FALSE,FALSE,prank,1298,https://i.ytimg.com/vi/292/mqdefault.jpg
+VID00293,The Best Sleep Science Ranked,WWE,3,2024-06-23,2024-07-08,13231744,1133870,25275,159892,FALSE,FALSE,reaction|news|science|vlog,2837,https://i.ytimg.com/vi/293/mqdefault.jpg
+VID00294,Fast Food Tier List 2024,Linus Tech Tips,3,2024-10-24,2024-11-02,23002863,2300527,300822,229130,FALSE,FALSE,challenge|news|science|shorts,2948,https://i.ytimg.com/vi/294/mqdefault.jpg
+VID00295,I Challenged A CEO To Cook,NASA,3,2024-01-16,2024-01-29,10743376,1160426,78869,138872,FALSE,FALSE,gameplay|challenge|review|trending|funny,1874,https://i.ytimg.com/vi/295/mqdefault.jpg
+VID00296,I Spent 30 Days Drawing And This Happened,WWE,1,2024-07-02,2024-07-04,23140189,2267336,65236,590954,FALSE,FALSE,collab|tutorial|update|reaction|top10,1980,https://i.ytimg.com/vi/296/mqdefault.jpg
+VID00297,Why Everyone Is Wrong About Netflix,WWE,4,2024-04-14,2024-04-16,5991758,675332,99940,156664,FALSE,FALSE,shorts|top10|reaction|review|prank,2066,https://i.ytimg.com/vi/297/mqdefault.jpg
+VID00298,Teaching My My Best Friend How To Draw,Gordon Ramsay,10,2024-10-01,2024-10-10,21571605,2320636,278867,347277,FALSE,TRUE,trending|reaction|update,1909,https://i.ytimg.com/vi/298/mqdefault.jpg
+VID00299,Drawing For 24 Hours Straight,Veritasium,7,2024-06-04,2024-06-17,9643701,637783,44099,181117,FALSE,FALSE,prank|challenge|top10|news|shorts,283,https://i.ytimg.com/vi/299/mqdefault.jpg
+VID00300,The Best Fast Food Ranked,5-Minute Crafts,8,2024-01-13,2024-01-16,15272999,1207048,132496,104712,FALSE,FALSE,[none],1922,https://i.ytimg.com/vi/300/mqdefault.jpg
+VID00301,The Truth About Space Nobody Tells You,TechLead,8,2024-07-04,2024-07-06,17626392,1599205,178730,516110,FALSE,TRUE,update,2567,https://i.ytimg.com/vi/301/mqdefault.jpg
+VID00302,I Spent 100 Days Drawing And This Happened,Vsauce,1,2024-08-02,2024-08-07,10435710,970689,140298,97830,FALSE,FALSE,[none],800,https://i.ytimg.com/vi/302/mqdefault.jpg
+VID00303,I Tried Crypto For 30 Days,Kurzgesagt,8,2024-10-05,2024-10-18,242956,19630,1552,,TRUE,FALSE,top10|news|science,2761,https://i.ytimg.com/vi/303/mqdefault.jpg
+VID00304,The Truth About Electric Cars Nobody Tells You,Mark Rober,1,2024-06-27,2024-06-28,4927955,519322,53687,124689,FALSE,FALSE,funny|trending,1282,https://i.ytimg.com/vi/304/mqdefault.jpg
+VID00305,Why Everyone Is Wrong About Algorithms,Smosh,6,2024-01-19,2024-01-21,10092656,527666,71580,250173,FALSE,FALSE,science|funny|vlog,3166,https://i.ytimg.com/vi/305/mqdefault.jpg
+VID00306,The Best Calories Ranked,Linus Tech Tips,4,2024-01-30,2024-02-01,19221897,1787114,175239,569515,FALSE,FALSE,vlog|news|shorts|challenge|gameplay,2041,https://i.ytimg.com/vi/306/mqdefault.jpg
+VID00307,Crypto: Is It Worth It?,Shroud,8,2024-09-09,2024-09-22,6086684,659591,28086,57361,FALSE,FALSE,[none],852,https://i.ytimg.com/vi/307/mqdefault.jpg
+VID00308,Netflix Tier List 2024,Corridor Crew,1,2024-06-19,2024-06-25,18854423,1896837,75356,369130,FALSE,FALSE,gameplay|funny,2886,https://i.ytimg.com/vi/308/mqdefault.jpg
+VID00309,Why Everyone Is Wrong About Sleep Science,Gordon Ramsay,10,2024-01-15,2024-01-29,5943134,234168,29677,164898,FALSE,FALSE,trending|challenge|unboxing,2022,https://i.ytimg.com/vi/309/mqdefault.jpg
+VID00310,Teaching My A CEO How To Stream,T-Series,9,2024-06-02,2024-06-12,24375760,2140673,187790,37607,FALSE,FALSE,shorts|collab|funny|unboxing|challenge,2425,https://i.ytimg.com/vi/310/mqdefault.jpg
+VID00311,We Tested Every Algorithms So You Don't Have To,The Tonight Show,3,2024-02-29,2024-03-14,10394207,940952,50839,19927,FALSE,FALSE,[none],1755,https://i.ytimg.com/vi/311/mqdefault.jpg
+VID00312,Reacting to Fast Food For The First Time,Dude Perfect,6,2024-01-20,2024-02-02,6831297,760565,54858,11771,FALSE,FALSE,challenge|review|shorts|top10,2036,https://i.ytimg.com/vi/312/mqdefault.jpg
+VID00313,Surprising A Kid With JavaScript,Mark Rober,4,2024-01-19,2024-01-27,13055302,1192833,99158,14611,FALSE,FALSE,funny|shorts|top10|unboxing|viral,240,https://i.ytimg.com/vi/313/mqdefault.jpg
+VID00314,I Challenged My Best Friend To Stream,5-Minute Crafts,4,2024-04-08,2024-04-13,9332818,683419,80773,190973,FALSE,TRUE,tutorial,1176,https://i.ytimg.com/vi/314/mqdefault.jpg
+VID00315,30 Things You Didn't Know About Space,NatGeo,9,2024-06-12,2024-06-17,4799858,548757,67255,84709,FALSE,FALSE,[none],761,https://i.ytimg.com/vi/315/mqdefault.jpg
+VID00316,Sleep Science: Is It Worth It?,Vox,1,2024-02-24,2024-03-02,1855224,53081,3443,39767,FALSE,FALSE,top10|collab|vlog|tutorial|news,2487,https://i.ytimg.com/vi/316/mqdefault.jpg
+VID00317,The Best Electric Cars Ranked,PewDiePie,8,2024-02-19,2024-02-27,10465016,925607,101289,151706,FALSE,FALSE,challenge,1009,https://i.ytimg.com/vi/317/mqdefault.jpg
+VID00318,The Truth About Smartphones Nobody Tells You,5-Minute Crafts,6,2024-08-20,2024-08-28,1065495,28274,729,15855,FALSE,FALSE,vlog,3524,https://i.ytimg.com/vi/318/mqdefault.jpg
+VID00319,Gaming For 24 Hours Straight,5-Minute Crafts,9,2024-02-06,2024-02-19,10187402,746477,49352,132332,FALSE,FALSE,science,2603,https://i.ytimg.com/vi/319/mqdefault.jpg
+VID00320,The Truth About Gaming Setups Nobody Tells You,Red Bull,6,2024-10-05,2024-10-17,7974024,297499,30863,178950,FALSE,FALSE,unboxing|epic|top10|tutorial,2975,https://i.ytimg.com/vi/320/mqdefault.jpg
+VID00321,I Challenged A Kid To Draw,Dream,10,2024-07-13,2024-07-19,16635792,1405706,26156,121619,FALSE,FALSE,viral|challenge|prank|reaction,629,https://i.ytimg.com/vi/321/mqdefault.jpg
+VID00322,Why Everyone Is Wrong About JavaScript,BuzzFeed,10,2024-06-04,2024-06-19,14637018,1343372,185541,434988,FALSE,FALSE,[none],2446,https://i.ytimg.com/vi/322/mqdefault.jpg
+VID00323,Teaching My A Kid How To Cook,Vox,9,2024-01-28,2024-01-29,23650648,1797520,264266,98889,FALSE,FALSE,viral|reaction|news|collab|vlog|review,1215,https://i.ytimg.com/vi/323/mqdefault.jpg
+VID00324,How Gaming Setups Actually Works,Kurzgesagt,3,2024-04-06,2024-04-15,12954868,1351617,81692,169706,FALSE,FALSE,challenge|science|viral|trending|shorts|unboxing,1241,https://i.ytimg.com/vi/324/mqdefault.jpg
+VID00325,I Challenged A Kid To Cook,Red Bull,7,2024-08-21,2024-09-05,23383433,1881032,130917,145307,FALSE,FALSE,science|top10|update,2146,https://i.ytimg.com/vi/325/mqdefault.jpg
+VID00326,Why Everyone Is Wrong About Algorithms,TechLead,9,2024-05-17,2024-05-24,18376298,1426648,20949,38555,FALSE,FALSE,collab|epic|unboxing|science|trending,2039,https://i.ytimg.com/vi/326/mqdefault.jpg
+VID00327,We Tested Every Netflix So You Don't Have To,Vox,10,2024-02-15,2024-02-19,15902844,1320990,135960,324303,FALSE,TRUE,science|vlog|trending|top10|tutorial,2861,https://i.ytimg.com/vi/327/mqdefault.jpg
+VID00328,Reacting to JavaScript For The First Time,Red Bull,5,2024-05-28,2024-05-31,1235351,110570,10356,12128,FALSE,FALSE,gameplay|trending|unboxing|vlog,3275,https://i.ytimg.com/vi/328/mqdefault.jpg
+VID00329,The Best Space Ranked,Mark Rober,9,2024-02-09,2024-02-23,9373058,423710,40765,84182,FALSE,FALSE,[none],1112,https://i.ytimg.com/vi/329/mqdefault.jpg
+VID00330,Why Everyone Is Wrong About Coffee,NatGeo,3,2024-05-13,2024-05-26,23564102,1027856,36296,383960,FALSE,FALSE,funny|challenge,195,https://i.ytimg.com/vi/330/mqdefault.jpg
+VID00331,Smartphones: Is It Worth It?,Dream,8,2024-03-26,2024-03-30,19436321,1816054,105895,381448,FALSE,FALSE,epic|trending|tutorial|reaction|review|top10,3154,https://i.ytimg.com/vi/331/mqdefault.jpg
+VID00332,YouTube Tier List 2024,The Tonight Show,8,2024-05-14,2024-05-17,17848684,1910304,22275,497790,FALSE,FALSE,shorts|prank|trending,1898,https://i.ytimg.com/vi/332/mqdefault.jpg
+VID00333,I Spent 7 Days Drawing And This Happened,CNN,2,2024-05-10,2024-05-21,19651721,1161718,137362,446558,FALSE,FALSE,review|prank|shorts|unboxing|collab,3067,https://i.ytimg.com/vi/333/mqdefault.jpg
+VID00334,I Challenged A Kid To Code,Dude Perfect,9,2024-02-23,2024-03-05,15013337,828010,92352,124685,FALSE,FALSE,[none],199,https://i.ytimg.com/vi/334/mqdefault.jpg
+VID00335,We Tested Every Sleep Science So You Don't Have To,PewDiePie,10,2024-03-07,2024-03-14,22074948,2127711,214275,536262,FALSE,FALSE,[none],816,https://i.ytimg.com/vi/335/mqdefault.jpg
+VID00336,The Best Smartphones Ranked,TechLead,6,2024-05-11,2024-05-14,2532929,120893,2264,31076,FALSE,FALSE,gameplay|tutorial,306,https://i.ytimg.com/vi/336/mqdefault.jpg
+VID00337,Reacting to Calories For The First Time,Kurzgesagt,2,2024-03-14,2024-03-23,14520468,607516,60792,,TRUE,FALSE,epic|trending,2990,https://i.ytimg.com/vi/337/mqdefault.jpg
+VID00338,We Tested Every Smartphones So You Don't Have To,Shroud,1,2024-01-20,2024-01-31,13152462,613478,66260,358192,FALSE,FALSE,[none],2413,https://i.ytimg.com/vi/338/mqdefault.jpg
+VID00339,How Netflix Actually Works,SSSniperWolf,4,2024-01-02,2024-01-09,23177771,2359442,182831,,TRUE,FALSE,vlog|update,1530,https://i.ytimg.com/vi/339/mqdefault.jpg
+VID00340,Surprising My Best Friend With Python,Bon Appétit,5,2024-04-13,2024-04-16,18655109,446474,28477,121987,FALSE,FALSE,epic|collab|unboxing,2910,https://i.ytimg.com/vi/340/mqdefault.jpg
+VID00341,Drawing For 24 Hours Straight,Gordon Ramsay,10,2024-05-02,2024-05-10,13094873,344385,29505,129956,FALSE,TRUE,top10|viral|trending|tutorial|prank|science,2247,https://i.ytimg.com/vi/341/mqdefault.jpg
+VID00342,How Fast Food Actually Works,TED,9,2024-03-17,2024-03-29,19489616,843872,16948,435170,FALSE,TRUE,viral|unboxing|trending|epic|collab,2062,https://i.ytimg.com/vi/342/mqdefault.jpg
+VID00343,How Space Actually Works,Vsauce,10,2024-02-02,2024-02-16,3617883,113666,10604,68208,FALSE,FALSE,review|news|shorts|update|prank|collab,318,https://i.ytimg.com/vi/343/mqdefault.jpg
+VID00344,I Spent 10 Days Coding And This Happened,Bon Appétit,1,2024-03-29,2024-04-04,2171374,69645,2073,28313,FALSE,FALSE,science|tutorial,2912,https://i.ytimg.com/vi/344/mqdefault.jpg
+VID00345,We Tested Every Electric Cars So You Don't Have To,Vox,8,2024-02-11,2024-02-12,292397,11093,249,5818,FALSE,FALSE,unboxing|challenge|review,1222,https://i.ytimg.com/vi/345/mqdefault.jpg
+VID00346,7 Things You Didn't Know About GPUs,T-Series,10,2024-04-02,2024-04-14,16823445,1366147,30496,420048,FALSE,FALSE,news|viral,1293,https://i.ytimg.com/vi/346/mqdefault.jpg
+VID00347,I Tried Netflix For 30 Days,WWE,8,2024-04-16,2024-04-21,1830700,72078,8759,,TRUE,FALSE,tutorial|science|trending,2003,https://i.ytimg.com/vi/347/mqdefault.jpg
+VID00348,I Challenged My Best Friend To Build a PC,T-Series,2,2024-01-27,2024-02-11,18080831,679636,81535,272419,FALSE,FALSE,[none],535,https://i.ytimg.com/vi/348/mqdefault.jpg
+VID00349,Teaching My My Best Friend How To Speedrun,Dream,6,2024-04-27,2024-05-10,3745445,197059,4676,83878,FALSE,FALSE,reaction|funny|unboxing,879,https://i.ytimg.com/vi/349/mqdefault.jpg
+VID00350,The Truth About Sleep Science Nobody Tells You,NatGeo,3,2024-08-22,2024-09-03,6564758,546201,80060,45061,FALSE,FALSE,[none],581,https://i.ytimg.com/vi/350/mqdefault.jpg
+VID00351,Why Everyone Is Wrong About Crypto,Vsauce,6,2024-04-22,2024-05-07,9953976,799937,96421,194122,FALSE,FALSE,science,2564,https://i.ytimg.com/vi/351/mqdefault.jpg
+VID00352,We Tested Every Coffee So You Don't Have To,NASA,8,2024-05-22,2024-05-23,24545331,1541717,203759,200955,FALSE,TRUE,reaction|challenge|viral|review,1838,https://i.ytimg.com/vi/352/mqdefault.jpg
+VID00353,Traveling For 24 Hours Straight,Kurzgesagt,2,2024-08-19,2024-08-27,8120226,229876,26534,171350,FALSE,FALSE,challenge,1725,https://i.ytimg.com/vi/353/mqdefault.jpg
+VID00354,7 Things You Didn't Know About Coffee,Veritasium,10,2024-10-25,2024-10-26,15311924,1016345,29888,327536,FALSE,FALSE,collab|top10|viral|news|shorts|trending,817,https://i.ytimg.com/vi/354/mqdefault.jpg
+VID00355,Smartphones Tier List 2024,Ninja,9,2024-10-21,2024-11-03,7000680,691451,14751,185830,FALSE,FALSE,[none],3073,https://i.ytimg.com/vi/355/mqdefault.jpg
+VID00356,Streaming For 24 Hours Straight,Ninja,1,2024-07-06,2024-07-12,5930998,503051,54672,102380,FALSE,FALSE,challenge,3228,https://i.ytimg.com/vi/356/mqdefault.jpg
+VID00357,Why Everyone Is Wrong About Sleep Science,5-Minute Crafts,6,2024-05-16,2024-05-25,22874621,1424926,25113,270185,FALSE,FALSE,prank|science|epic,1913,https://i.ytimg.com/vi/357/mqdefault.jpg
+VID00358,The Truth About Crypto Nobody Tells You,Red Bull,2,2024-04-06,2024-04-21,15413706,442849,28650,95342,FALSE,FALSE,[none],375,https://i.ytimg.com/vi/358/mqdefault.jpg
+VID00359,24 Things You Didn't Know About Netflix,MrBeast,5,2024-08-01,2024-08-12,18217542,2061718,157405,240175,FALSE,FALSE,viral|vlog|review|trending|science,3081,https://i.ytimg.com/vi/359/mqdefault.jpg
+VID00360,Reacting to GPUs For The First Time,Red Bull,6,2024-09-05,2024-09-15,22392397,2008292,256794,311532,FALSE,FALSE,challenge|vlog|tutorial|update,1305,https://i.ytimg.com/vi/360/mqdefault.jpg
+VID00361,We Tested Every Electric Cars So You Don't Have To,Vsauce,10,2024-03-23,2024-04-04,18012247,874038,127827,456441,FALSE,FALSE,challenge|tutorial|reaction|trending|viral,2897,https://i.ytimg.com/vi/361/mqdefault.jpg
+VID00362,We Tested Every Netflix So You Don't Have To,TechLead,1,2024-06-11,2024-06-17,5014184,287270,24584,28657,FALSE,FALSE,[none],1295,https://i.ytimg.com/vi/362/mqdefault.jpg
+VID00363,I Spent 10 Days Streaming And This Happened,Gordon Ramsay,9,2024-09-16,2024-09-22,21767903,1970977,150479,204726,FALSE,FALSE,challenge|top10|shorts|collab,3149,https://i.ytimg.com/vi/363/mqdefault.jpg
+VID00364,How Smartphones Actually Works,The Tonight Show,10,2024-04-22,2024-04-30,12042137,352209,6235,236002,FALSE,FALSE,reaction|gameplay|review|viral,2449,https://i.ytimg.com/vi/364/mqdefault.jpg
+VID00365,We Tested Every Crypto So You Don't Have To,5-Minute Crafts,10,2024-09-18,2024-09-19,22422967,1258073,38638,577622,FALSE,FALSE,collab|viral|vlog,1574,https://i.ytimg.com/vi/365/mqdefault.jpg
+VID00366,Why Everyone Is Wrong About Gaming Setups,Gordon Ramsay,7,2024-08-14,2024-08-19,5545891,557735,81345,73711,FALSE,FALSE,funny,1756,https://i.ytimg.com/vi/366/mqdefault.jpg
+VID00367,30 Things You Didn't Know About JavaScript,PewDiePie,1,2024-07-28,2024-08-08,9221394,566667,49761,199155,FALSE,FALSE,review,3153,https://i.ytimg.com/vi/367/mqdefault.jpg
+VID00368,I Spent 7 Days Drawing And This Happened,Kurzgesagt,9,2024-08-25,2024-08-29,950601,94225,2974,9225,FALSE,FALSE,unboxing|epic|vlog|review|funny|reaction,2683,https://i.ytimg.com/vi/368/mqdefault.jpg
+VID00369,We Tested Every Electric Cars So You Don't Have To,Ninja,6,2024-10-24,2024-11-01,19027534,1210281,55803,397513,FALSE,FALSE,epic|collab|viral|news|challenge|funny,2903,https://i.ytimg.com/vi/369/mqdefault.jpg
+VID00370,Reacting to GPUs For The First Time,NatGeo,7,2024-07-01,2024-07-02,9775960,480648,47801,31556,FALSE,FALSE,tutorial|epic|science|gameplay|unboxing|news,853,https://i.ytimg.com/vi/370/mqdefault.jpg
+VID00371,Why Everyone Is Wrong About Algorithms,Smosh,6,2024-03-14,2024-03-15,4645260,333608,20757,69967,FALSE,FALSE,epic,1453,https://i.ytimg.com/vi/371/mqdefault.jpg
+VID00372,I Challenged My Best Friend To Build a PC,SSSniperWolf,2,2024-08-01,2024-08-09,2613569,82736,2347,3930,FALSE,FALSE,collab|challenge,1486,https://i.ytimg.com/vi/372/mqdefault.jpg
+VID00373,AI: Is It Worth It?,BuzzFeed,1,2024-03-01,2024-03-05,4368941,461716,13819,33075,FALSE,FALSE,challenge,573,https://i.ytimg.com/vi/373/mqdefault.jpg
+VID00374,Fast Food: Is It Worth It?,T-Series,4,2024-02-25,2024-02-26,22188839,1583127,28966,,TRUE,FALSE,[none],1096,https://i.ytimg.com/vi/374/mqdefault.jpg
+VID00375,I Tried Gaming Setups For 30 Days,Smosh,4,2024-04-04,2024-04-15,11845512,271569,8249,268179,FALSE,FALSE,collab|science|tutorial|news,1196,https://i.ytimg.com/vi/375/mqdefault.jpg
+VID00376,I Tried Calories For 30 Days,Bon Appétit,1,2024-09-27,2024-10-01,24068652,942402,46611,653419,FALSE,FALSE,[none],2260,https://i.ytimg.com/vi/376/mqdefault.jpg
+VID00377,Gaming For 24 Hours Straight,Smosh,3,2024-08-13,2024-08-24,3651212,139055,8298,43846,FALSE,FALSE,reaction|news|epic|update,937,https://i.ytimg.com/vi/377/mqdefault.jpg
+VID00378,Why Everyone Is Wrong About Gaming Setups,BuzzFeed,9,2024-01-21,2024-01-23,11059726,767227,49002,157616,FALSE,FALSE,top10|reaction,3075,https://i.ytimg.com/vi/378/mqdefault.jpg
+VID00379,Surprising My Mom With Electric Cars,NatGeo,3,2024-01-07,2024-01-18,16546981,1443054,94508,267353,FALSE,FALSE,[none],2831,https://i.ytimg.com/vi/379/mqdefault.jpg
+VID00380,24 Things You Didn't Know About Sleep Science,Linus Tech Tips,6,2024-04-12,2024-04-22,13615688,439462,55959,299964,FALSE,FALSE,gameplay|update|collab|reaction|shorts|vlog,1200,https://i.ytimg.com/vi/380/mqdefault.jpg
+VID00381,The Truth About Netflix Nobody Tells You,CNN,8,2024-09-11,2024-09-15,21134632,2414426,34191,473334,FALSE,TRUE,[none],3460,https://i.ytimg.com/vi/381/mqdefault.jpg
+VID00382,Reacting to AI For The First Time,Ninja,10,2024-02-19,2024-03-03,2617493,225387,18660,39978,FALSE,FALSE,vlog,1968,https://i.ytimg.com/vi/382/mqdefault.jpg
+VID00383,We Tested Every Calories So You Don't Have To,Vox,2,2024-07-15,2024-07-23,10604855,1116557,80345,21670,FALSE,FALSE,vlog|tutorial|unboxing|review,784,https://i.ytimg.com/vi/383/mqdefault.jpg
+VID00384,I Spent 10 Days Drawing And This Happened,Dream,9,2024-10-19,2024-10-27,16018925,1221051,38931,41911,FALSE,TRUE,update|collab|vlog,1138,https://i.ytimg.com/vi/384/mqdefault.jpg
+VID00385,Coding For 24 Hours Straight,Smosh,1,2024-06-23,2024-06-30,3316525,208326,31013,42935,FALSE,FALSE,reaction|science|prank|shorts|challenge,291,https://i.ytimg.com/vi/385/mqdefault.jpg
+VID00386,Smartphones Tier List 2024,SSSniperWolf,6,2024-01-20,2024-01-28,22121024,2352280,210592,600384,FALSE,FALSE,[none],1152,https://i.ytimg.com/vi/386/mqdefault.jpg
+VID00387,We Tested Every Crypto So You Don't Have To,Dude Perfect,8,2024-02-21,2024-03-04,22702976,921532,73300,556955,FALSE,FALSE,tutorial|vlog,2793,https://i.ytimg.com/vi/387/mqdefault.jpg
+VID00388,I Challenged My Best Friend To Draw,T-Series,5,2024-10-20,2024-10-27,7629475,629105,90661,166425,FALSE,FALSE,[none],2428,https://i.ytimg.com/vi/388/mqdefault.jpg
+VID00389,The Best Algorithms Ranked,Red Bull,2,2024-06-03,2024-06-12,10113276,640079,54786,68792,FALSE,FALSE,prank|top10,1707,https://i.ytimg.com/vi/389/mqdefault.jpg
+VID00390,Surprising A Pro Gamer With Coffee,Kurzgesagt,4,2024-08-27,2024-09-01,21455256,1572068,150948,500003,FALSE,FALSE,trending|prank|review|tutorial,1836,https://i.ytimg.com/vi/390/mqdefault.jpg
+VID00391,Calories: Is It Worth It?,TED,2,2024-04-14,2024-04-28,13889135,648531,32547,78570,FALSE,TRUE,reaction|update|science|trending,2873,https://i.ytimg.com/vi/391/mqdefault.jpg
+VID00392,Working Out For 24 Hours Straight,Corridor Crew,1,2024-04-13,2024-04-16,9200695,309539,14293,,TRUE,FALSE,tutorial|trending|unboxing|update,2757,https://i.ytimg.com/vi/392/mqdefault.jpg
+VID00393,Calories: Is It Worth It?,Vox,6,2024-02-16,2024-02-23,24351275,2539229,109303,427565,FALSE,FALSE,[none],2109,https://i.ytimg.com/vi/393/mqdefault.jpg
+VID00394,Reacting to YouTube For The First Time,Ninja,2,2024-06-09,2024-06-15,19656734,1842300,226267,443747,FALSE,FALSE,challenge,1792,https://i.ytimg.com/vi/394/mqdefault.jpg
+VID00395,I Challenged A Kid To Build a PC,Kurzgesagt,9,2024-07-10,2024-07-22,3840353,198350,13751,,TRUE,FALSE,challenge|collab|unboxing|prank|tutorial|science,1197,https://i.ytimg.com/vi/395/mqdefault.jpg
+VID00396,We Tested Every Smartphones So You Don't Have To,WWE,5,2024-10-09,2024-10-16,10427328,874799,94553,283535,FALSE,FALSE,[none],2866,https://i.ytimg.com/vi/396/mqdefault.jpg
+VID00397,We Tested Every Netflix So You Don't Have To,PewDiePie,4,2024-06-01,2024-06-05,5426333,605519,59576,143822,FALSE,FALSE,news|trending|gameplay|science|prank,3200,https://i.ytimg.com/vi/397/mqdefault.jpg
+VID00398,How Space Actually Works,Vox,2,2024-03-23,2024-04-04,8806702,622047,36862,,TRUE,FALSE,shorts|top10|viral|update,3391,https://i.ytimg.com/vi/398/mqdefault.jpg
+VID00399,I Challenged My Best Friend To Code,Linus Tech Tips,5,2024-06-09,2024-06-19,2809249,87319,3924,60942,FALSE,FALSE,challenge|news|shorts|reaction|top10|collab,3204,https://i.ytimg.com/vi/399/mqdefault.jpg
+VID00400,I Spent 30 Days Working Out And This Happened,Corridor Crew,6,2024-04-03,2024-04-10,12710759,1455073,194700,95459,FALSE,FALSE,reaction|funny|top10|epic,154,https://i.ytimg.com/vi/400/mqdefault.jpg
+VID00401,Reacting to Calories For The First Time,Mark Rober,2,2024-07-07,2024-07-10,19083513,605616,66982,259909,FALSE,FALSE,unboxing|epic|reaction|collab|prank|news,1918,https://i.ytimg.com/vi/401/mqdefault.jpg
+VID00402,I Challenged A CEO To Build a PC,Corridor Crew,4,2024-04-20,2024-05-04,9544805,884524,32294,59471,FALSE,FALSE,viral,3305,https://i.ytimg.com/vi/402/mqdefault.jpg
+VID00403,Reacting to Python For The First Time,Shroud,8,2024-02-13,2024-02-14,15783056,525899,29058,332985,FALSE,FALSE,update,2873,https://i.ytimg.com/vi/403/mqdefault.jpg
+VID00404,How Python Actually Works,Vice,4,2024-08-29,2024-09-13,11938391,1428714,202170,346799,FALSE,FALSE,trending|viral|gameplay|unboxing|vlog,2510,https://i.ytimg.com/vi/404/mqdefault.jpg
+VID00405,We Tested Every GPUs So You Don't Have To,CNN,3,2024-09-14,2024-09-22,11430882,1232131,35077,116620,FALSE,FALSE,challenge|gameplay|epic,2232,https://i.ytimg.com/vi/405/mqdefault.jpg
+VID00406,Reacting to Sleep Science For The First Time,Vox,5,2024-05-15,2024-05-24,10552883,670926,22206,236059,FALSE,TRUE,challenge|top10|trending|epic|funny|viral,2072,https://i.ytimg.com/vi/406/mqdefault.jpg
+VID00407,24 Things You Didn't Know About Crypto,Vox,8,2024-01-21,2024-01-29,12012829,1428107,126415,171483,FALSE,FALSE,challenge|epic|collab|trending|prank|science,520,https://i.ytimg.com/vi/407/mqdefault.jpg
+VID00408,Cooking For 24 Hours Straight,MKBHD,10,2024-04-02,2024-04-09,2628170,117257,9349,9815,FALSE,FALSE,[none],1406,https://i.ytimg.com/vi/408/mqdefault.jpg
+VID00409,Surprising My Mom With Crypto,MrBeast,2,2024-08-23,2024-09-06,23796694,2045419,150476,682985,FALSE,FALSE,viral|shorts|trending|prank|vlog,2493,https://i.ytimg.com/vi/409/mqdefault.jpg
+VID00410,Drawing For 24 Hours Straight,BuzzFeed,6,2024-01-29,2024-02-10,2423106,181043,17076,8926,FALSE,FALSE,reaction,1105,https://i.ytimg.com/vi/410/mqdefault.jpg
+VID00411,The Best YouTube Ranked,Bon Appétit,7,2024-05-25,2024-06-05,21996756,778981,40348,533023,FALSE,FALSE,vlog|challenge|collab|shorts|trending|tutorial,3074,https://i.ytimg.com/vi/411/mqdefault.jpg
+VID00412,We Tested Every Algorithms So You Don't Have To,Corridor Crew,2,2024-08-04,2024-08-17,12405950,1009680,71459,165675,FALSE,FALSE,shorts|top10|reaction|science,225,https://i.ytimg.com/vi/412/mqdefault.jpg
+VID00413,7 Things You Didn't Know About Coffee,Veritasium,7,2024-02-10,2024-02-25,16075978,804431,118883,335105,FALSE,FALSE,reaction|prank|news|challenge|vlog|viral,1290,https://i.ytimg.com/vi/413/mqdefault.jpg
+VID00414,Surprising A Kid With Sleep Science,Veritasium,10,2024-05-09,2024-05-15,8601689,675721,79471,,TRUE,FALSE,top10|tutorial|prank|news|review,3093,https://i.ytimg.com/vi/414/mqdefault.jpg
+VID00415,We Tested Every Calories So You Don't Have To,Ninja,5,2024-06-23,2024-07-08,6331112,260251,5452,,TRUE,FALSE,epic|news|viral|unboxing|review|trending,1122,https://i.ytimg.com/vi/415/mqdefault.jpg
+VID00416,I Spent 10 Days Drawing And This Happened,NASA,10,2024-07-03,2024-07-15,22659081,2635571,275454,,TRUE,FALSE,challenge,418,https://i.ytimg.com/vi/416/mqdefault.jpg
+VID00417,The Truth About Calories Nobody Tells You,Shroud,3,2024-05-03,2024-05-10,21057059,2228235,190294,,TRUE,FALSE,challenge|unboxing|news,3212,https://i.ytimg.com/vi/417/mqdefault.jpg
+VID00418,Reacting to Smartphones For The First Time,Smosh,4,2024-04-13,2024-04-18,19156915,1972110,127876,204627,FALSE,FALSE,news|science|unboxing|collab|vlog,480,https://i.ytimg.com/vi/418/mqdefault.jpg
+VID00419,The Best Calories Ranked,Smosh,10,2024-09-06,2024-09-10,24017606,626150,7928,425488,FALSE,FALSE,[none],2326,https://i.ytimg.com/vi/419/mqdefault.jpg
+VID00420,Teaching My A Pro Gamer How To Cook,NatGeo,8,2024-08-11,2024-08-12,5463451,266622,9840,59942,FALSE,FALSE,reaction|shorts|top10|funny,1010,https://i.ytimg.com/vi/420/mqdefault.jpg
+VID00421,I Spent 7 Days Cooking And This Happened,Ninja,4,2024-05-24,2024-06-05,2942120,255098,7161,19962,FALSE,FALSE,epic|news|unboxing,2541,https://i.ytimg.com/vi/421/mqdefault.jpg
+VID00422,YouTube Tier List 2024,Vsauce,3,2024-09-14,2024-09-15,2186262,117562,3051,16558,FALSE,FALSE,unboxing,2361,https://i.ytimg.com/vi/422/mqdefault.jpg
+VID00423,Cooking For 24 Hours Straight,TED,9,2024-02-23,2024-03-06,1741882,196246,13991,24833,FALSE,FALSE,epic|science|prank|news|gameplay|viral,3507,https://i.ytimg.com/vi/423/mqdefault.jpg
+VID00424,Teaching My A Stranger How To Draw,TechLead,8,2024-09-16,2024-09-24,24630362,2636662,83322,284440,FALSE,FALSE,epic,3415,https://i.ytimg.com/vi/424/mqdefault.jpg
+VID00425,Coffee: Is It Worth It?,MKBHD,3,2024-02-13,2024-02-18,12546890,1148291,78200,241574,FALSE,FALSE,prank,1065,https://i.ytimg.com/vi/425/mqdefault.jpg
+VID00426,Python: Is It Worth It?,Red Bull,6,2024-01-16,2024-01-24,4934998,478769,52888,78975,FALSE,FALSE,[none],345,https://i.ytimg.com/vi/426/mqdefault.jpg
+VID00427,Reacting to Space For The First Time,Dream,3,2024-10-21,2024-10-22,21243232,2506801,305503,560791,FALSE,TRUE,update|vlog|shorts,1271,https://i.ytimg.com/vi/427/mqdefault.jpg
+VID00428,Surprising My Best Friend With JavaScript,Veritasium,4,2024-10-05,2024-10-15,20792929,1771634,190709,556056,FALSE,FALSE,update|review|vlog|trending|viral,3261,https://i.ytimg.com/vi/428/mqdefault.jpg
+VID00429,Surprising A Stranger With GPUs,MKBHD,9,2024-06-08,2024-06-17,11482292,1098908,35608,20769,FALSE,FALSE,gameplay|reaction|vlog|collab,3322,https://i.ytimg.com/vi/429/mqdefault.jpg
+VID00430,Space: Is It Worth It?,MKBHD,6,2024-03-04,2024-03-05,21892674,2498705,181963,385324,FALSE,FALSE,shorts|reaction|prank,81,https://i.ytimg.com/vi/430/mqdefault.jpg
+VID00431,I Spent 30 Days Gaming And This Happened,MKBHD,4,2024-02-23,2024-02-29,17379247,1359698,170231,199457,FALSE,FALSE,news,461,https://i.ytimg.com/vi/431/mqdefault.jpg
+VID00432,The Truth About Space Nobody Tells You,PewDiePie,6,2024-09-26,2024-10-03,19788040,1501849,178773,520196,FALSE,FALSE,news|top10|unboxing,2453,https://i.ytimg.com/vi/432/mqdefault.jpg
+VID00433,I Challenged A Stranger To Stream,Veritasium,3,2024-09-19,2024-10-03,17805029,566303,22521,262220,FALSE,FALSE,science,3117,https://i.ytimg.com/vi/433/mqdefault.jpg
+VID00434,I Challenged A Stranger To Cook,BuzzFeed,1,2024-09-24,2024-09-27,4000773,228631,34007,39185,FALSE,FALSE,[none],2050,https://i.ytimg.com/vi/434/mqdefault.jpg
+VID00435,Surprising A CEO With Space,Vsauce,8,2024-01-02,2024-01-04,18422303,1010737,133275,241510,FALSE,FALSE,top10|shorts,2407,https://i.ytimg.com/vi/435/mqdefault.jpg
+VID00436,The Best YouTube Ranked,Veritasium,8,2024-08-17,2024-08-20,24473068,1285365,156780,496082,FALSE,FALSE,reaction|update|shorts,1737,https://i.ytimg.com/vi/436/mqdefault.jpg
+VID00437,I Challenged A CEO To Code,TED,3,2024-01-13,2024-01-23,21192956,2111154,230191,366008,FALSE,FALSE,science|funny|review|vlog|gameplay,567,https://i.ytimg.com/vi/437/mqdefault.jpg
+VID00438,The Best Coffee Ranked,Dude Perfect,9,2024-04-02,2024-04-03,9276211,915336,40586,199094,FALSE,FALSE,funny|shorts|update,2433,https://i.ytimg.com/vi/438/mqdefault.jpg
+VID00439,Reacting to Electric Cars For The First Time,MrBeast,9,2024-06-11,2024-06-18,8679454,252593,37174,145047,FALSE,FALSE,tutorial,1228,https://i.ytimg.com/vi/439/mqdefault.jpg
+VID00440,I Challenged A CEO To Stream,5-Minute Crafts,3,2024-01-14,2024-01-26,2012994,100252,2388,,TRUE,FALSE,update|epic,1387,https://i.ytimg.com/vi/440/mqdefault.jpg
+VID00441,10 Things You Didn't Know About Coffee,The Tonight Show,2,2024-05-17,2024-05-18,10731598,713461,47795,161413,FALSE,FALSE,reaction|viral|gameplay|unboxing|vlog,1729,https://i.ytimg.com/vi/441/mqdefault.jpg
+VID00442,Why Everyone Is Wrong About Electric Cars,TED,9,2024-04-14,2024-04-27,4827044,276736,40941,,TRUE,FALSE,science|top10|trending,2261,https://i.ytimg.com/vi/442/mqdefault.jpg
+VID00443,100 Things You Didn't Know About JavaScript,Vice,8,2024-05-19,2024-05-29,8468436,880283,55652,94771,FALSE,FALSE,prank,2649,https://i.ytimg.com/vi/443/mqdefault.jpg
+VID00444,Sleep Science Tier List 2024,TechLead,2,2024-03-12,2024-03-24,18722339,2244473,298423,133202,FALSE,FALSE,shorts|science|gameplay|update|collab|reaction,2127,https://i.ytimg.com/vi/444/mqdefault.jpg
+VID00445,The Best Fast Food Ranked,MrBeast,3,2024-01-02,2024-01-12,16039658,327656,3715,96759,FALSE,FALSE,unboxing|update|funny|prank|shorts,2336,https://i.ytimg.com/vi/445/mqdefault.jpg
+VID00446,GPUs: Is It Worth It?,NASA,10,2024-07-02,2024-07-09,5995396,623009,77042,,TRUE,FALSE,collab|review|top10,571,https://i.ytimg.com/vi/446/mqdefault.jpg
+VID00447,How YouTube Actually Works,NASA,10,2024-06-04,2024-06-17,24135691,1016469,149641,,TRUE,FALSE,unboxing|review,210,https://i.ytimg.com/vi/447/mqdefault.jpg
+VID00448,The Truth About The Internet Nobody Tells You,Kurzgesagt,3,2024-10-09,2024-10-13,22190503,2083277,216878,410218,FALSE,FALSE,[none],778,https://i.ytimg.com/vi/448/mqdefault.jpg
+VID00449,How Netflix Actually Works,Red Bull,5,2024-04-08,2024-04-22,22799190,508689,74153,,TRUE,FALSE,science|top10,2576,https://i.ytimg.com/vi/449/mqdefault.jpg
+VID00450,We Tested Every Smartphones So You Don't Have To,CNN,2,2024-09-22,2024-09-30,16678728,936463,108876,444159,FALSE,FALSE,[none],979,https://i.ytimg.com/vi/450/mqdefault.jpg
+VID00451,How Calories Actually Works,PewDiePie,10,2024-01-13,2024-01-25,7620819,897805,62249,24072,FALSE,FALSE,tutorial,1083,https://i.ytimg.com/vi/451/mqdefault.jpg
+VID00452,I Challenged A Kid To Speedrun,Smosh,6,2024-05-08,2024-05-12,3668531,247103,35640,92237,FALSE,FALSE,prank|reaction,3425,https://i.ytimg.com/vi/452/mqdefault.jpg
+VID00453,Reacting to Coffee For The First Time,Smosh,2,2024-02-13,2024-02-14,1168828,67487,9084,24671,FALSE,FALSE,trending,3265,https://i.ytimg.com/vi/453/mqdefault.jpg
+VID00454,Teaching My A Stranger How To Build a PC,Dream,1,2024-10-13,2024-10-14,9945764,1044234,69165,187992,FALSE,FALSE,viral,1743,https://i.ytimg.com/vi/454/mqdefault.jpg
+VID00455,The Best Algorithms Ranked,Dream,1,2024-08-20,2024-08-29,11062352,871506,21893,15004,FALSE,FALSE,[none],2981,https://i.ytimg.com/vi/455/mqdefault.jpg
+VID00456,The Truth About JavaScript Nobody Tells You,Corridor Crew,8,2024-08-15,2024-08-18,8208843,277190,4482,38604,FALSE,FALSE,prank|collab|vlog,2454,https://i.ytimg.com/vi/456/mqdefault.jpg
+VID00457,Gaming For 24 Hours Straight,BuzzFeed,6,2024-01-05,2024-01-14,19727658,1691995,51172,155537,FALSE,FALSE,science|trending|news|tutorial|epic|unboxing,3415,https://i.ytimg.com/vi/457/mqdefault.jpg
+VID00458,I Spent 30 Days Gaming And This Happened,Veritasium,10,2024-06-18,2024-07-02,19458244,1490690,84958,188537,FALSE,FALSE,epic,1406,https://i.ytimg.com/vi/458/mqdefault.jpg
+VID00459,I Spent 100 Days Coding And This Happened,TechLead,4,2024-08-26,2024-09-05,7201741,316170,35677,206150,FALSE,FALSE,update|review|science|funny|news|viral,1417,https://i.ytimg.com/vi/459/mqdefault.jpg
+VID00460,The Best Space Ranked,Linus Tech Tips,10,2024-07-03,2024-07-04,1046082,41751,2078,,TRUE,FALSE,tutorial|shorts|reaction|funny|epic,1133,https://i.ytimg.com/vi/460/mqdefault.jpg
+VID00461,The Best Gaming Setups Ranked,Red Bull,2,2024-06-22,2024-07-07,7104395,358823,15652,173881,FALSE,FALSE,prank,2767,https://i.ytimg.com/vi/461/mqdefault.jpg
+VID00462,Why Everyone Is Wrong About Space,Vox,3,2024-04-07,2024-04-11,17919570,1036101,64648,329485,FALSE,FALSE,trending,2665,https://i.ytimg.com/vi/462/mqdefault.jpg
+VID00463,Sleep Science Tier List 2024,T-Series,5,2024-03-05,2024-03-19,17104693,1998485,267830,120894,FALSE,FALSE,unboxing|funny|tutorial|gameplay|review|update,393,https://i.ytimg.com/vi/463/mqdefault.jpg
+VID00464,I Tried Smartphones For 30 Days,TechLead,6,2024-09-26,2024-10-08,16266758,1489465,118071,142850,FALSE,FALSE,trending|review|reaction|top10|epic,1702,https://i.ytimg.com/vi/464/mqdefault.jpg
+VID00465,Teaching My A Pro Gamer How To Draw,Vice,6,2024-05-10,2024-05-19,2894037,96756,2105,40200,FALSE,FALSE,trending,1500,https://i.ytimg.com/vi/465/mqdefault.jpg
+VID00466,How YouTube Actually Works,Red Bull,8,2024-06-11,2024-06-16,12880239,289442,20792,112098,FALSE,FALSE,funny|vlog,370,https://i.ytimg.com/vi/466/mqdefault.jpg
+VID00467,Reacting to JavaScript For The First Time,Dude Perfect,2,2024-07-03,2024-07-04,18371594,735427,27600,193783,FALSE,FALSE,gameplay|review|challenge|news|update,1299,https://i.ytimg.com/vi/467/mqdefault.jpg
+VID00468,I Tried Algorithms For 30 Days,Red Bull,7,2024-07-26,2024-08-09,19510019,1868681,21797,389588,FALSE,FALSE,update,3177,https://i.ytimg.com/vi/468/mqdefault.jpg
+VID00469,The Truth About Space Nobody Tells You,Bon Appétit,8,2024-08-24,2024-08-30,2931515,150408,5459,68403,FALSE,TRUE,review|top10|prank,2918,https://i.ytimg.com/vi/469/mqdefault.jpg
+VID00470,The Truth About Smartphones Nobody Tells You,MrBeast,8,2024-06-30,2024-07-06,7616210,471555,49988,96708,FALSE,TRUE,science|vlog|shorts|prank|viral,3249,https://i.ytimg.com/vi/470/mqdefault.jpg
+VID00471,I Spent 100 Days Traveling And This Happened,The Tonight Show,2,2024-09-30,2024-10-07,6369597,429806,24085,184057,FALSE,FALSE,funny|tutorial,2677,https://i.ytimg.com/vi/471/mqdefault.jpg
+VID00472,Working Out For 24 Hours Straight,PewDiePie,7,2024-05-25,2024-05-29,7869505,386475,32237,111630,FALSE,FALSE,viral|tutorial|shorts|news,1569,https://i.ytimg.com/vi/472/mqdefault.jpg
+VID00473,We Tested Every Smartphones So You Don't Have To,PewDiePie,7,2024-04-15,2024-04-18,6951375,354351,44118,140966,FALSE,FALSE,vlog|review|top10|challenge,710,https://i.ytimg.com/vi/473/mqdefault.jpg
+VID00474,Teaching My A Pro Gamer How To Speedrun,MKBHD,6,2024-10-18,2024-11-02,16523837,1090911,98900,369827,FALSE,FALSE,top10|collab|vlog|review|unboxing,1239,https://i.ytimg.com/vi/474/mqdefault.jpg
+VID00475,Surprising A CEO With Coffee,Vice,3,2024-10-18,2024-10-20,13255390,1191188,19193,353663,FALSE,FALSE,science|vlog,706,https://i.ytimg.com/vi/475/mqdefault.jpg
+VID00476,Why Everyone Is Wrong About Python,NatGeo,2,2024-02-23,2024-03-03,10989185,670445,22176,77075,FALSE,FALSE,viral|funny|top10,242,https://i.ytimg.com/vi/476/mqdefault.jpg
+VID00477,I Spent 100 Days Coding And This Happened,Dude Perfect,3,2024-06-16,2024-06-27,15627495,1070107,20924,264173,FALSE,FALSE,top10|challenge|unboxing|news|prank,1052,https://i.ytimg.com/vi/477/mqdefault.jpg
+VID00478,10 Things You Didn't Know About Python,SSSniperWolf,7,2024-03-27,2024-03-29,22578182,2175608,228076,123082,FALSE,FALSE,review,1526,https://i.ytimg.com/vi/478/mqdefault.jpg
+VID00479,I Spent 24 Days Drawing And This Happened,Shroud,2,2024-07-18,2024-07-30,10395645,669465,62761,25066,FALSE,FALSE,review|reaction|collab|top10|epic|news,1605,https://i.ytimg.com/vi/479/mqdefault.jpg
+VID00480,I Tried GPUs For 30 Days,PewDiePie,4,2024-02-19,2024-03-03,22333792,821621,27431,291561,FALSE,FALSE,shorts|science|review|vlog|epic|gameplay,501,https://i.ytimg.com/vi/480/mqdefault.jpg
+VID00481,We Tested Every Electric Cars So You Don't Have To,MrBeast,7,2024-06-10,2024-06-11,13108937,541094,22083,263239,FALSE,FALSE,collab|trending|funny|top10|epic,1200,https://i.ytimg.com/vi/481/mqdefault.jpg
+VID00482,I Challenged A Kid To Build a PC,Ninja,6,2024-07-17,2024-07-28,23327405,776642,26830,538624,FALSE,FALSE,unboxing|funny,2876,https://i.ytimg.com/vi/482/mqdefault.jpg
+VID00483,I Spent 10 Days Cooking And This Happened,WWE,9,2024-10-27,2024-11-08,495994,21456,2065,13395,FALSE,FALSE,news,1325,https://i.ytimg.com/vi/483/mqdefault.jpg
+VID00484,JavaScript: Is It Worth It?,Mark Rober,7,2024-04-14,2024-04-25,1321938,57909,6459,39219,FALSE,TRUE,shorts|challenge|gameplay|tutorial|science,1877,https://i.ytimg.com/vi/484/mqdefault.jpg
+VID00485,Coding For 24 Hours Straight,TED,6,2024-06-24,2024-06-28,6956087,514271,70418,,TRUE,FALSE,reaction|update|shorts|funny|science|unboxing,1077,https://i.ytimg.com/vi/485/mqdefault.jpg
+VID00486,I Tried Sleep Science For 30 Days,PewDiePie,3,2024-10-08,2024-10-22,6907631,301386,6311,152138,FALSE,FALSE,review,1335,https://i.ytimg.com/vi/486/mqdefault.jpg
+VID00487,Space: Is It Worth It?,CNN,8,2024-02-10,2024-02-16,13412867,774884,58813,177830,FALSE,FALSE,news|challenge|unboxing|viral|update,2556,https://i.ytimg.com/vi/487/mqdefault.jpg
+VID00488,I Spent 7 Days Drawing And This Happened,Vsauce,5,2024-07-13,2024-07-21,10312531,674030,42140,191552,FALSE,FALSE,challenge|unboxing,354,https://i.ytimg.com/vi/488/mqdefault.jpg
+VID00489,Working Out For 24 Hours Straight,NatGeo,8,2024-07-26,2024-08-10,14002609,1596696,232908,165527,FALSE,FALSE,funny|news,2065,https://i.ytimg.com/vi/489/mqdefault.jpg
+VID00490,How Space Actually Works,CNN,6,2024-09-17,2024-09-29,16445428,1373159,84511,,TRUE,FALSE,reaction|science|unboxing,1638,https://i.ytimg.com/vi/490/mqdefault.jpg
+VID00491,Teaching My A Stranger How To Build a PC,Veritasium,3,2024-05-10,2024-05-14,20254778,1576514,162009,115075,FALSE,FALSE,funny|update|prank|collab|vlog|trending,538,https://i.ytimg.com/vi/491/mqdefault.jpg
+VID00492,Teaching My A Pro Gamer How To Code,BuzzFeed,9,2024-09-29,2024-10-10,12894254,1013591,114283,294264,FALSE,FALSE,funny|epic|collab|news|science|challenge,3040,https://i.ytimg.com/vi/492/mqdefault.jpg
+VID00493,Working Out For 24 Hours Straight,Dude Perfect,2,2024-08-01,2024-08-10,14036907,1199483,135092,83497,FALSE,FALSE,challenge,1594,https://i.ytimg.com/vi/493/mqdefault.jpg
+VID00494,Reacting to AI For The First Time,T-Series,3,2024-04-08,2024-04-13,13766796,882080,121564,57361,FALSE,FALSE,funny,2666,https://i.ytimg.com/vi/494/mqdefault.jpg
+VID00495,I Spent 30 Days Working Out And This Happened,Kurzgesagt,8,2024-02-21,2024-02-22,2098715,97817,14059,42592,FALSE,FALSE,[none],3292,https://i.ytimg.com/vi/495/mqdefault.jpg
+VID00496,Why Everyone Is Wrong About Fast Food,Kurzgesagt,6,2024-08-07,2024-08-13,12491484,1101574,63925,126682,FALSE,FALSE,update|science,1041,https://i.ytimg.com/vi/496/mqdefault.jpg
+VID00497,How Netflix Actually Works,TED,7,2024-03-12,2024-03-13,20246720,653755,55103,578667,FALSE,FALSE,reaction|collab|top10|vlog|shorts|news,3137,https://i.ytimg.com/vi/497/mqdefault.jpg
+VID00498,The Best Fast Food Ranked,NatGeo,1,2024-06-15,2024-06-26,14958440,648536,50478,335621,FALSE,FALSE,[none],3312,https://i.ytimg.com/vi/498/mqdefault.jpg
+VID00499,30 Things You Didn't Know About Sleep Science,BuzzFeed,10,2024-04-09,2024-04-21,4853700,519277,68893,115328,FALSE,FALSE,trending|challenge|unboxing|update,2995,https://i.ytimg.com/vi/499/mqdefault.jpg
+VID00500,I Tried Calories For 30 Days,Dream,9,2024-05-03,2024-05-07,7151487,264914,37667,152307,FALSE,FALSE,viral|tutorial|shorts,492,https://i.ytimg.com/vi/500/mqdefault.jpg
+VID00501,Teaching My My Best Friend How To Cook,Dream,3,2024-09-30,2024-10-11,24390868,1687747,204851,259792,FALSE,FALSE,funny|shorts|update|top10,976,https://i.ytimg.com/vi/501/mqdefault.jpg
+VID00502,AI Tier List 2024,CNN,2,2024-05-28,2024-05-30,3787377,109508,12449,106724,FALSE,FALSE,[none],3109,https://i.ytimg.com/vi/502/mqdefault.jpg
+VID00503,The Truth About The Internet Nobody Tells You,Smosh,9,2024-04-07,2024-04-21,13074002,1542535,84453,151471,FALSE,FALSE,challenge|prank|reaction|trending|review|viral,2842,https://i.ytimg.com/vi/503/mqdefault.jpg
+VID00504,I Challenged A Pro Gamer To Draw,Veritasium,3,2024-05-25,2024-05-28,22375464,2347471,295511,44660,FALSE,FALSE,prank|epic,1371,https://i.ytimg.com/vi/504/mqdefault.jpg
+VID00505,Why Everyone Is Wrong About Smartphones,TechLead,7,2024-01-31,2024-02-13,11228476,396030,43700,287381,FALSE,FALSE,trending,3379,https://i.ytimg.com/vi/505/mqdefault.jpg
+VID00506,Surprising My Best Friend With Fast Food,Vice,3,2024-01-12,2024-01-21,13212919,710075,74490,392676,FALSE,FALSE,update|funny|vlog,3163,https://i.ytimg.com/vi/506/mqdefault.jpg
+VID00507,How Fast Food Actually Works,Bon Appétit,10,2024-01-28,2024-02-11,23859806,1202710,122253,423214,FALSE,FALSE,unboxing|vlog|challenge|epic|top10,1869,https://i.ytimg.com/vi/507/mqdefault.jpg
+VID00508,I Challenged My Best Friend To Code,The Tonight Show,7,2024-03-27,2024-04-11,1940171,57438,8407,12047,FALSE,FALSE,[none],274,https://i.ytimg.com/vi/508/mqdefault.jpg
+VID00509,Coding For 24 Hours Straight,Dude Perfect,4,2024-07-22,2024-07-30,10206577,906327,130182,203428,FALSE,TRUE,funny|top10|update|challenge|shorts|news,1597,https://i.ytimg.com/vi/509/mqdefault.jpg
+VID00510,We Tested Every Space So You Don't Have To,Vice,9,2024-04-25,2024-04-26,19741434,1525977,137594,176449,FALSE,FALSE,[none],3112,https://i.ytimg.com/vi/510/mqdefault.jpg
+VID00511,The Best Electric Cars Ranked,PewDiePie,9,2024-04-04,2024-04-11,23562996,517788,45486,390111,FALSE,FALSE,unboxing|funny|epic|update,3386,https://i.ytimg.com/vi/511/mqdefault.jpg
+VID00512,How JavaScript Actually Works,Veritasium,6,2024-03-03,2024-03-04,4372347,338892,34353,15507,FALSE,FALSE,trending|funny|epic|gameplay|challenge|tutorial,1111,https://i.ytimg.com/vi/512/mqdefault.jpg
+VID00513,I Tried Space For 30 Days,Vox,5,2024-09-30,2024-10-08,4742756,368546,39550,76630,FALSE,FALSE,science|prank|review|collab,1502,https://i.ytimg.com/vi/513/mqdefault.jpg
+VID00514,Streaming For 24 Hours Straight,Mark Rober,10,2024-10-09,2024-10-13,19906947,1112928,31149,379169,FALSE,FALSE,gameplay|science|update|shorts,364,https://i.ytimg.com/vi/514/mqdefault.jpg
+VID00515,AI: Is It Worth It?,SSSniperWolf,4,2024-02-06,2024-02-17,24634490,1156342,114057,485830,FALSE,FALSE,prank|tutorial,2986,https://i.ytimg.com/vi/515/mqdefault.jpg
+VID00516,Reacting to Smartphones For The First Time,PewDiePie,5,2024-03-04,2024-03-13,3740656,330666,22137,39469,FALSE,FALSE,shorts|gameplay,424,https://i.ytimg.com/vi/516/mqdefault.jpg
+VID00517,GPUs Tier List 2024,Dude Perfect,2,2024-03-30,2024-04-08,24488612,2633779,243455,597452,FALSE,TRUE,collab|vlog|gameplay|prank,451,https://i.ytimg.com/vi/517/mqdefault.jpg
+VID00518,Surprising A Kid With The Internet,Red Bull,9,2024-10-09,2024-10-19,13560734,917874,25572,17295,FALSE,FALSE,challenge|science|prank|review|vlog,2163,https://i.ytimg.com/vi/518/mqdefault.jpg
+VID00519,Coding For 24 Hours Straight,Corridor Crew,8,2024-04-03,2024-04-11,11928316,1191005,95652,107341,FALSE,FALSE,reaction|vlog|funny|challenge,1812,https://i.ytimg.com/vi/519/mqdefault.jpg
+VID00520,7 Things You Didn't Know About AI,Smosh,1,2024-02-13,2024-02-25,9641563,727127,57442,254115,FALSE,FALSE,prank|challenge|unboxing|reaction|gameplay,1796,https://i.ytimg.com/vi/520/mqdefault.jpg
+VID00521,The Best Gaming Setups Ranked,Vice,1,2024-08-05,2024-08-17,17978965,1707404,75453,403277,FALSE,FALSE,trending|top10|tutorial|shorts,3432,https://i.ytimg.com/vi/521/mqdefault.jpg
+VID00522,Reacting to JavaScript For The First Time,MKBHD,6,2024-01-27,2024-02-03,16676484,965726,60125,71438,FALSE,FALSE,science,2841,https://i.ytimg.com/vi/522/mqdefault.jpg
+VID00523,Reacting to AI For The First Time,MrBeast,10,2024-07-20,2024-07-24,10278055,1160504,167436,,TRUE,FALSE,unboxing|trending|collab,205,https://i.ytimg.com/vi/523/mqdefault.jpg
+VID00524,I Tried GPUs For 30 Days,Vsauce,7,2024-06-30,2024-07-01,3450331,217648,8195,56391,FALSE,FALSE,epic|unboxing|viral,689,https://i.ytimg.com/vi/524/mqdefault.jpg
+VID00525,The Best Crypto Ranked,Corridor Crew,3,2024-10-01,2024-10-14,9092304,280674,20040,230411,FALSE,TRUE,collab,722,https://i.ytimg.com/vi/525/mqdefault.jpg
+VID00526,The Truth About Smartphones Nobody Tells You,Mark Rober,7,2024-08-03,2024-08-15,11163681,1229118,39877,75586,FALSE,FALSE,gameplay|epic|news|reaction|science,2023,https://i.ytimg.com/vi/526/mqdefault.jpg
+VID00527,Reacting to Coffee For The First Time,Vice,7,2024-03-08,2024-03-10,3669838,364309,10075,,TRUE,FALSE,reaction|trending|shorts|review|vlog|collab,115,https://i.ytimg.com/vi/527/mqdefault.jpg
+VID00528,100 Things You Didn't Know About Crypto,Mark Rober,9,2024-04-05,2024-04-09,9483453,916791,120084,282924,FALSE,FALSE,news|review|unboxing|collab|update,1073,https://i.ytimg.com/vi/528/mqdefault.jpg
+VID00529,24 Things You Didn't Know About The Internet,Shroud,3,2024-04-27,2024-04-29,4489110,269922,13048,29507,FALSE,FALSE,viral|review|funny,658,https://i.ytimg.com/vi/529/mqdefault.jpg
+VID00530,I Spent 7 Days Coding And This Happened,Corridor Crew,8,2024-02-01,2024-02-10,14380186,1213505,63831,126662,FALSE,TRUE,news|reaction,1209,https://i.ytimg.com/vi/530/mqdefault.jpg
+VID00531,GPUs: Is It Worth It?,Kurzgesagt,5,2024-02-21,2024-02-28,6252201,282763,22276,66862,FALSE,FALSE,[none],516,https://i.ytimg.com/vi/531/mqdefault.jpg
+VID00532,Working Out For 24 Hours Straight,Gordon Ramsay,10,2024-09-27,2024-10-07,12518568,548629,26681,224651,FALSE,FALSE,[none],417,https://i.ytimg.com/vi/532/mqdefault.jpg
+VID00533,The Best GPUs Ranked,Veritasium,2,2024-02-08,2024-02-17,20820541,1130342,126088,618363,FALSE,FALSE,challenge|trending|science|epic,887,https://i.ytimg.com/vi/533/mqdefault.jpg
+VID00534,I Spent 100 Days Coding And This Happened,TechLead,2,2024-08-11,2024-08-13,16250771,1005929,141218,253710,FALSE,FALSE,gameplay,149,https://i.ytimg.com/vi/534/mqdefault.jpg
+VID00535,I Challenged A Pro Gamer To Stream,Kurzgesagt,9,2024-09-19,2024-09-21,5603869,357383,29054,,TRUE,FALSE,gameplay|review|tutorial,1658,https://i.ytimg.com/vi/535/mqdefault.jpg
+VID00536,How Space Actually Works,TechLead,9,2024-05-12,2024-05-17,7443260,369456,17583,33152,FALSE,FALSE,[none],977,https://i.ytimg.com/vi/536/mqdefault.jpg
+VID00537,I Challenged A Kid To Code,Shroud,4,2024-04-17,2024-04-26,3948516,79523,4663,73243,FALSE,FALSE,funny|gameplay,1571,https://i.ytimg.com/vi/537/mqdefault.jpg
+VID00538,We Tested Every YouTube So You Don't Have To,NASA,6,2024-04-22,2024-05-04,9434832,355443,51903,156469,FALSE,FALSE,epic|update|gameplay|news|shorts|top10,3247,https://i.ytimg.com/vi/538/mqdefault.jpg
+VID00539,Why Everyone Is Wrong About Calories,Shroud,7,2024-03-20,2024-03-28,7825338,727609,51475,41487,FALSE,FALSE,[none],2022,https://i.ytimg.com/vi/539/mqdefault.jpg
+VID00540,We Tested Every Algorithms So You Don't Have To,Shroud,5,2024-01-11,2024-01-16,5516642,598695,74507,115483,FALSE,FALSE,[none],829,https://i.ytimg.com/vi/540/mqdefault.jpg
+VID00541,Reacting to AI For The First Time,Bon Appétit,1,2024-02-21,2024-02-28,12934584,285486,35890,299305,FALSE,FALSE,[none],2699,https://i.ytimg.com/vi/541/mqdefault.jpg
+VID00542,Surprising My Mom With Fast Food,SSSniperWolf,6,2024-02-13,2024-02-17,4721786,321282,28529,65564,FALSE,FALSE,shorts|unboxing,728,https://i.ytimg.com/vi/542/mqdefault.jpg
+VID00543,Smartphones Tier List 2024,Dude Perfect,9,2024-05-31,2024-06-02,17214515,1870282,127440,17818,FALSE,FALSE,[none],978,https://i.ytimg.com/vi/543/mqdefault.jpg
+VID00544,I Spent 100 Days Gaming And This Happened,NASA,2,2024-09-08,2024-09-11,3745539,159006,22881,34356,FALSE,FALSE,shorts|epic|collab|top10,372,https://i.ytimg.com/vi/544/mqdefault.jpg
+VID00545,Gaming Setups Tier List 2024,5-Minute Crafts,10,2024-04-02,2024-04-13,14318839,501474,51861,139542,FALSE,FALSE,collab|epic,3408,https://i.ytimg.com/vi/545/mqdefault.jpg
+VID00546,Surprising A Stranger With Gaming Setups,Bon Appétit,3,2024-06-12,2024-06-15,13156346,850814,103424,385662,FALSE,FALSE,[none],3396,https://i.ytimg.com/vi/546/mqdefault.jpg
+VID00547,We Tested Every The Internet So You Don't Have To,Vsauce,7,2024-06-29,2024-07-05,16632817,1037608,111105,216299,FALSE,FALSE,shorts|challenge|reaction|review|top10,3310,https://i.ytimg.com/vi/547/mqdefault.jpg
+VID00548,Space Tier List 2024,Smosh,7,2024-09-26,2024-10-06,23319963,2358329,95999,82325,FALSE,FALSE,[none],1541,https://i.ytimg.com/vi/548/mqdefault.jpg
+VID00549,The Truth About Space Nobody Tells You,Vice,6,2024-07-03,2024-07-17,4725785,233783,7055,121670,FALSE,FALSE,review,1784,https://i.ytimg.com/vi/549/mqdefault.jpg
+VID00550,Why Everyone Is Wrong About Electric Cars,MrBeast,7,2024-07-09,2024-07-10,23585137,721728,65983,349719,FALSE,TRUE,tutorial|viral|challenge|science|funny|trending,2492,https://i.ytimg.com/vi/550/mqdefault.jpg
+VID00551,I Challenged My Mom To Speedrun,Mark Rober,9,2024-06-02,2024-06-10,13858403,1278517,92253,,TRUE,FALSE,epic|challenge,114,https://i.ytimg.com/vi/551/mqdefault.jpg
+VID00552,Traveling For 24 Hours Straight,NASA,7,2024-08-20,2024-08-29,23920849,2462695,341529,372072,FALSE,FALSE,news,2965,https://i.ytimg.com/vi/552/mqdefault.jpg
+VID00553,Smartphones Tier List 2024,The Tonight Show,10,2024-01-29,2024-02-02,13213100,506978,58018,227523,FALSE,FALSE,[none],3507,https://i.ytimg.com/vi/553/mqdefault.jpg
+VID00554,Working Out For 24 Hours Straight,Red Bull,6,2024-08-05,2024-08-09,9106997,280860,5868,168411,FALSE,FALSE,viral|reaction,3527,https://i.ytimg.com/vi/554/mqdefault.jpg
+VID00555,Algorithms Tier List 2024,SSSniperWolf,4,2024-01-17,2024-01-21,9081779,258866,23250,20900,FALSE,FALSE,trending|science|shorts,3296,https://i.ytimg.com/vi/555/mqdefault.jpg
+VID00556,I Spent 100 Days Drawing And This Happened,Bon Appétit,7,2024-07-01,2024-07-04,23627250,2066643,116526,637907,FALSE,FALSE,[none],2122,https://i.ytimg.com/vi/556/mqdefault.jpg
+VID00557,Algorithms: Is It Worth It?,TED,1,2024-05-28,2024-05-31,5134765,453078,9526,98344,FALSE,FALSE,review,3002,https://i.ytimg.com/vi/557/mqdefault.jpg
+VID00558,Teaching My My Best Friend How To Stream,Shroud,9,2024-06-23,2024-07-01,4452260,239986,14505,114969,FALSE,FALSE,[none],1824,https://i.ytimg.com/vi/558/mqdefault.jpg
+VID00559,Reacting to GPUs For The First Time,Shroud,8,2024-02-19,2024-03-03,551362,18890,2490,9299,FALSE,FALSE,funny|unboxing|epic|reaction|tutorial|science,3326,https://i.ytimg.com/vi/559/mqdefault.jpg
+VID00560,I Challenged A CEO To Stream,Vsauce,8,2024-05-12,2024-05-20,8640817,832237,59826,240220,FALSE,FALSE,unboxing|trending|collab|news,567,https://i.ytimg.com/vi/560/mqdefault.jpg
+VID00561,Surprising My Best Friend With AI,5-Minute Crafts,6,2024-02-12,2024-02-23,13914497,982283,45966,367211,FALSE,FALSE,[none],2855,https://i.ytimg.com/vi/561/mqdefault.jpg
+VID00562,30 Things You Didn't Know About Gaming Setups,BuzzFeed,7,2024-03-22,2024-04-01,13447627,1417150,58425,354353,FALSE,FALSE,[none],2800,https://i.ytimg.com/vi/562/mqdefault.jpg
+VID00563,10 Things You Didn't Know About Space,Dude Perfect,7,2024-08-09,2024-08-13,13522791,714977,38908,404286,FALSE,FALSE,unboxing,2051,https://i.ytimg.com/vi/563/mqdefault.jpg
+VID00564,YouTube: Is It Worth It?,5-Minute Crafts,10,2024-01-17,2024-01-27,12810241,336141,41410,306129,FALSE,TRUE,trending,1999,https://i.ytimg.com/vi/564/mqdefault.jpg
+VID00565,Teaching My My Best Friend How To Cook,PewDiePie,3,2024-02-05,2024-02-10,13641842,384303,50854,,TRUE,FALSE,review|gameplay|tutorial|news,1779,https://i.ytimg.com/vi/565/mqdefault.jpg
+VID00566,Space Tier List 2024,NatGeo,7,2024-09-03,2024-09-11,18018609,1601548,52044,382066,FALSE,FALSE,update|viral|review|trending|collab,1512,https://i.ytimg.com/vi/566/mqdefault.jpg
+VID00567,10 Things You Didn't Know About Smartphones,Kurzgesagt,6,2024-02-28,2024-03-12,22663852,1374305,113925,25080,FALSE,FALSE,challenge|top10|epic|viral|unboxing|collab,1905,https://i.ytimg.com/vi/567/mqdefault.jpg
+VID00568,24 Things You Didn't Know About Electric Cars,Linus Tech Tips,4,2024-10-22,2024-10-23,12473743,1264562,15512,336828,FALSE,FALSE,epic|unboxing|top10|review|prank|tutorial,2116,https://i.ytimg.com/vi/568/mqdefault.jpg
+VID00569,I Spent 100 Days Traveling And This Happened,NatGeo,3,2024-10-10,2024-10-20,5507867,409103,25944,140492,FALSE,FALSE,news|vlog|epic|trending|update,2880,https://i.ytimg.com/vi/569/mqdefault.jpg
+VID00570,We Tested Every Sleep Science So You Don't Have To,Bon Appétit,10,2024-10-05,2024-10-07,21307576,1372428,125402,41473,FALSE,FALSE,news|review|reaction|update|unboxing|gameplay,1247,https://i.ytimg.com/vi/570/mqdefault.jpg
+VID00571,Netflix Tier List 2024,TechLead,7,2024-01-04,2024-01-10,7564065,535203,25403,,TRUE,FALSE,news|reaction|viral|top10|review|unboxing,1319,https://i.ytimg.com/vi/571/mqdefault.jpg
+VID00572,10 Things You Didn't Know About The Internet,Smosh,7,2024-05-03,2024-05-12,13181942,517602,51874,329916,FALSE,FALSE,news|challenge|update|collab,3342,https://i.ytimg.com/vi/572/mqdefault.jpg
+VID00573,AI: Is It Worth It?,Red Bull,3,2024-09-15,2024-09-17,21237646,1650024,107056,,TRUE,TRUE,science|tutorial|shorts|epic|trending|news,1125,https://i.ytimg.com/vi/573/mqdefault.jpg
+VID00574,Surprising A Kid With YouTube,SSSniperWolf,2,2024-10-19,2024-10-26,898587,84677,2394,12721,FALSE,FALSE,collab|tutorial|reaction|shorts|epic|challenge,2646,https://i.ytimg.com/vi/574/mqdefault.jpg
+VID00575,Drawing For 24 Hours Straight,CNN,2,2024-03-14,2024-03-25,826477,69290,6312,3305,FALSE,FALSE,epic|science|challenge|unboxing,1940,https://i.ytimg.com/vi/575/mqdefault.jpg
+VID00576,The Truth About Python Nobody Tells You,Dude Perfect,8,2024-01-12,2024-01-19,2518799,172919,16876,17879,FALSE,TRUE,shorts|top10|tutorial,1779,https://i.ytimg.com/vi/576/mqdefault.jpg
+VID00577,GPUs: Is It Worth It?,NatGeo,8,2024-10-06,2024-10-07,5364628,387191,17667,24281,FALSE,FALSE,[none],2542,https://i.ytimg.com/vi/577/mqdefault.jpg
+VID00578,Reacting to Calories For The First Time,MrBeast,6,2024-03-11,2024-03-15,2849874,264395,37432,24965,FALSE,FALSE,funny,2032,https://i.ytimg.com/vi/578/mqdefault.jpg
+VID00579,Reacting to Crypto For The First Time,The Tonight Show,4,2024-05-08,2024-05-11,6689631,593408,79649,61219,FALSE,FALSE,[none],1669,https://i.ytimg.com/vi/579/mqdefault.jpg
+VID00580,Gaming For 24 Hours Straight,Corridor Crew,8,2024-08-04,2024-08-14,9165864,931152,90514,170591,FALSE,FALSE,collab,1818,https://i.ytimg.com/vi/580/mqdefault.jpg
+VID00581,I Tried GPUs For 30 Days,Smosh,7,2024-05-30,2024-06-09,21695895,2495848,210324,272302,FALSE,FALSE,shorts,529,https://i.ytimg.com/vi/581/mqdefault.jpg
+VID00582,24 Things You Didn't Know About Gaming Setups,Bon Appétit,6,2024-03-03,2024-03-04,10740077,954032,105279,77322,FALSE,FALSE,shorts|reaction|funny|review|challenge|vlog,2384,https://i.ytimg.com/vi/582/mqdefault.jpg
+VID00583,The Internet Tier List 2024,Corridor Crew,7,2024-06-11,2024-06-25,10791492,429663,7283,165369,FALSE,FALSE,news|epic,251,https://i.ytimg.com/vi/583/mqdefault.jpg
+VID00584,Teaching My A Stranger How To Speedrun,BuzzFeed,1,2024-10-21,2024-10-22,15544492,752922,96246,197127,FALSE,FALSE,trending|shorts|viral|science,2245,https://i.ytimg.com/vi/584/mqdefault.jpg
+VID00585,Electric Cars Tier List 2024,PewDiePie,9,2024-06-09,2024-06-17,20596071,508872,26350,608305,FALSE,FALSE,epic|collab|science|viral|unboxing|top10,2080,https://i.ytimg.com/vi/585/mqdefault.jpg
+VID00586,Smartphones Tier List 2024,Gordon Ramsay,6,2024-10-02,2024-10-03,23143544,2471764,114581,549968,FALSE,FALSE,[none],513,https://i.ytimg.com/vi/586/mqdefault.jpg
+VID00587,Reacting to Calories For The First Time,Vsauce,3,2024-10-25,2024-11-02,4073224,132904,17365,93024,FALSE,FALSE,top10|epic|reaction,3542,https://i.ytimg.com/vi/587/mqdefault.jpg
+VID00588,I Tried Crypto For 30 Days,CNN,5,2024-02-12,2024-02-18,18790661,1945852,85486,,TRUE,FALSE,funny,3565,https://i.ytimg.com/vi/588/mqdefault.jpg
+VID00589,Algorithms Tier List 2024,Linus Tech Tips,8,2024-02-23,2024-02-29,7051516,715020,83388,112146,FALSE,FALSE,vlog|top10|challenge|news|gameplay|trending,1343,https://i.ytimg.com/vi/589/mqdefault.jpg
+VID00590,I Tried Electric Cars For 30 Days,Linus Tech Tips,2,2024-05-22,2024-05-29,5559514,492720,70562,98625,FALSE,FALSE,top10,478,https://i.ytimg.com/vi/590/mqdefault.jpg
+VID00591,I Spent 30 Days Cooking And This Happened,Kurzgesagt,9,2024-08-19,2024-08-25,8961343,285263,24830,101069,FALSE,FALSE,update,928,https://i.ytimg.com/vi/591/mqdefault.jpg
+VID00592,Coding For 24 Hours Straight,Shroud,7,2024-08-04,2024-08-08,9915200,386147,13411,89255,FALSE,FALSE,prank|news|epic,2548,https://i.ytimg.com/vi/592/mqdefault.jpg
+VID00593,Reacting to Electric Cars For The First Time,CNN,4,2024-02-03,2024-02-12,3440071,163561,21845,73224,FALSE,FALSE,update|epic|reaction,1717,https://i.ytimg.com/vi/593/mqdefault.jpg
+VID00594,The Best AI Ranked,Shroud,5,2024-05-27,2024-06-08,154249,4538,365,,TRUE,FALSE,vlog|reaction|tutorial|unboxing|shorts,2012,https://i.ytimg.com/vi/594/mqdefault.jpg
+VID00595,I Spent 7 Days Working Out And This Happened,Corridor Crew,6,2024-01-11,2024-01-14,8902739,962615,32634,205186,FALSE,FALSE,collab|unboxing|viral|reaction,99,https://i.ytimg.com/vi/595/mqdefault.jpg
+VID00596,Reacting to Calories For The First Time,MKBHD,3,2024-03-16,2024-03-29,3201100,96030,11767,34362,FALSE,FALSE,collab|gameplay|unboxing|challenge|tutorial,2069,https://i.ytimg.com/vi/596/mqdefault.jpg
+VID00597,Teaching My My Best Friend How To Speedrun,Dream,9,2024-01-11,2024-01-14,13818019,1459549,149328,70573,FALSE,FALSE,[none],2099,https://i.ytimg.com/vi/597/mqdefault.jpg
+VID00598,Coffee Tier List 2024,Shroud,2,2024-05-20,2024-06-04,21084995,1852952,251799,295797,FALSE,FALSE,gameplay,2218,https://i.ytimg.com/vi/598/mqdefault.jpg
+VID00599,We Tested Every JavaScript So You Don't Have To,Linus Tech Tips,1,2024-10-23,2024-11-01,23599696,1282111,122738,320255,FALSE,FALSE,collab|vlog|epic|viral,1923,https://i.ytimg.com/vi/599/mqdefault.jpg
+VID00600,YouTube Tier List 2024,Dream,3,2024-06-04,2024-06-12,9722399,257270,13188,137687,FALSE,TRUE,epic|trending,950,https://i.ytimg.com/vi/600/mqdefault.jpg
